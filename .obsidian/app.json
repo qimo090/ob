@@ -1,0 +1,12 @@
+{
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Index",
+  "attachmentFolderPath": "attachment",
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "showIndentGuide": false,
+  "promptDelete": true
+}

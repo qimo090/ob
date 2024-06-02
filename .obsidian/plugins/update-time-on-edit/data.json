@@ -1,0 +1,15 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "articles/30 seconds of code/Value to safe integer.md": "7d7db1461342aaafd469dab5013b1e9689a3071b886d7172f454d02c71cf82e6",
+    "templates/article.md": "06f764b36d5b50b43b17398bec0ad9c8b08c72b331fddf11ac36eb193a144b32",
+    "00 Index/Untitled 1.md": "06f764b36d5b50b43b17398bec0ad9c8b08c72b331fddf11ac36eb193a144b32"
+  }
+}

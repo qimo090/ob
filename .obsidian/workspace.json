@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "1584f26d53a5ce53",
+    "type": "split",
+    "children": [
+      {
+        "id": "abeb1991f5276dee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddabf9e3f3f2a407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Index/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63ae1b0fae3b07ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "e97b0cf56715bb69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa40ae69e2fb0c23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "5b081ac5cef68b0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Concrete",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96ce05a474deb69a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "right": {
+    "id": "a7efe540d3c49ad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "be2cea6b5244af40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d19089cf708b6e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 Index/Untitled 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2aa3c5f8deaf204",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 Index/Untitled 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60bca657be7b0574",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25d2d604c23618c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 Index/Untitled 1.md"
+              }
+            }
+          },
+          {
+            "id": "1fce4f3c5693ca3b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "08e09a4824615601",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "00 Index/Untitled 1.md"
+              }
+            }
+          },
+          {
+            "id": "64b09be9c0ae873a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ddabf9e3f3f2a407",
+  "lastOpenFiles": [
+    "00 Index/Untitled 1.md",
+    "templates/article.md",
+    "articles/30 seconds of code/Radians to degrees.md",
+    "articles/30 seconds of code/Value to safe integer.md",
+    "articles/30 seconds of code/根据某个 key 组合 2 个 JavaScript 对象数组.md",
+    "articles/30 seconds of code/【X】使用 Proxy 来实现 Observable 设计模式.md",
+    "网站收藏/00.md",
+    "z-obsidian-help/Callouts 标注.md",
+    "z-obsidian-help",
+    "00 Index/serverless 解耦及部署问题.md",
+    "bookstore/Head First设计模式（第二版）/目录/01 策略模式/index.md",
+    "bookstore/hello-algo/chapters/01 初识算法.md",
+    "bookstore/JavaScript 设计模式与开发实践/目录/Chapter01-面向对象的 JavaScript/index.md",
+    "topics/monorepo/00.md",
+    "00 Index/资源整理.md",
+    "attachment/Pasted image 20240515232825.png",
+    "courses/total-typescript/00-reference.md",
+    "topics/monorepo",
+    "Interview/JavaScript/图片怎么转 canvas，canvas 转图片？/index.md",
+    "Interview/Algo/一个数组里有一堆数字，拼接得到一个最大的数字/index.md",
+    "Interview/H5&C3/什么是 CSS 中的回流（重排）与重绘？/index.md",
+    "courses/total-typescript",
+    "bookstore/JavaScript 设计模式与开发实践/目录/Chapter01-面向对象的 JavaScript",
+    "bookstore/JavaScript 设计模式与开发实践/目录",
+    "bookstore/JavaScript 设计模式与开发实践",
+    "bookstore/Head First设计模式（第二版）/_reference.md",
+    "bookstore/Head First设计模式（第二版）/目录/00 总览.md",
+    "bookstore/Head First设计模式（第二版）/gpt/StrategyPattern 策略模式.md",
+    "bookstore/Head First设计模式（第二版）/目录/02 观察者模式/index.md",
+    "bookstore/Head First设计模式（第二版）/目录/01 策略模式",
+    "bookstore/Head First设计模式（第二版）/目录/03 装饰器模式/index.md",
+    "bookstore/Head First设计模式（第二版）/目录/02 观察者模式",
+    "topics/design-patterns/策略模式/0.5 设计原则基础.md",
+    "网站收藏",
+    "topics/design-patterns/策略模式",
+    "topics/design-patterns/GPT.md",
+    "topics/design-patterns/00.md",
+    "attachment/Pasted image 20240404162408.png",
+    "attachment/Pasted image 20240404161942.png",
+    "attachment/Pasted image 20240404161828.png",
+    "attachment/Pasted image 20240404161537.png",
+    "attachment/Pasted image 20240404161527.png",
+    "attachment/Pasted image 20240404161511.png",
+    "attachment/Pasted image 20240404161459.png",
+    "attachment/Pasted image 20240404161432.png",
+    "bookstore/hello-algo/chapters/Pasted image 20240404161412.png",
+    "Untitled.canvas",
+    "Interview/JavaScript/请介绍一下Js中的单线程和事件循环/JS 的单线程.canvas"
+  ]
+}
