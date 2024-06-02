@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "abeb1991f5276dee",
+        "id": "2a84b136d0399ff6",
         "type": "tabs",
         "children": [
           {
-            "id": "ddabf9e3f3f2a407",
+            "id": "5d42756cf4db8d40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Index/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Index/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Index/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00 Index/Untitled 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "00 Index/Untitled 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,8 +168,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ddabf9e3f3f2a407",
+  "active": "5d42756cf4db8d40",
   "lastOpenFiles": [
+    "templates/ai.md",
     "00 Index/Untitled 1.md",
     "templates/article.md",
     "articles/30 seconds of code/Radians to degrees.md",
@@ -216,7 +207,6 @@
     "网站收藏",
     "topics/design-patterns/策略模式",
     "topics/design-patterns/GPT.md",
-    "topics/design-patterns/00.md",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",
     "attachment/Pasted image 20240404161828.png",
