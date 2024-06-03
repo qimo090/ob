@@ -1,6 +1,6 @@
 ---
 created: 2024-06-02T20:33
-updated: 2024-06-03T23:18
+updated: 2024-06-03T23:28
 tags:
   - TypeScript
   - ReturnType
@@ -38,7 +38,8 @@ type MyFuncReturn = ReturnType<typeof myFunc>;
   
 type tests = [Expect<Equal<MyFuncReturn, string>>];
 ```
-# 知识点
+
+# 解析
 
 ## `ReturnType`
 
