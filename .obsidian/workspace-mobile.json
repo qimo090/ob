@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "83ff69c92b904de5",
+        "id": "63395311f78e0ec5",
         "type": "tabs",
         "children": [
           {
-            "id": "b31cd5f03dc56c5f",
+            "id": "139d09718fc26d37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics/monorepo/00.md",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/00.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "78a657cbce03c67f",
+            "id": "aa2c7455a8dcd79b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Index/serverless 解耦及部署问题.md",
+                "file": "00 Index/02-get-function-parameters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "topics/monorepo/00.md",
+            "file": "courses/total-typescript/workshops/01 Type Transformations/00.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "topics/monorepo/00.md",
+            "file": "courses/total-typescript/workshops/01 Type Transformations/00.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "topics/monorepo/00.md"
+            "file": "courses/total-typescript/workshops/01 Type Transformations/00.md"
           }
         }
       }
@@ -158,9 +157,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01ffdb06f4374e56",
+  "active": "139d09718fc26d37",
   "lastOpenFiles": [
+    "00 Index/02-get-function-parameters.md",
+    "courses/total-typescript/workshops/01 Type Transformations/00.md",
     "topics/monorepo/00.md",
+    "00 Index/Untitled 2.md",
+    "Untitled",
     "00 Index/serverless 解耦及部署问题.md",
     "00 Index/资源整理.md",
     "topics/design-patterns/GPT.md",
@@ -184,9 +187,6 @@
     "Interview/React中常用的高阶组件有哪些？/index.md",
     "Interview/Js中实现继承的几种方式/index.md",
     "JavaScript/资源提示符/index.md",
-    "Excalidraw/Drawing 2024-01-30 23.14.24.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-30 22.56.18.excalidraw.md",
-    "JavaScript/JS 加载时间线/Index.md",
     "Excalidraw"
   ]
 }

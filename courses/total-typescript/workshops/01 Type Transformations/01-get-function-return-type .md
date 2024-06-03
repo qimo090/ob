@@ -1,12 +1,14 @@
 ---
 created: 2024-06-02T20:33
-updated: 2024-06-02T21:02
+updated: 2024-06-03T23:18
 tags:
   - TypeScript
   - ReturnType
   - UtilityTypes
 ---
-```ts
+# Problem
+
+```ts file:problem
 import { Equal, Expect } from "../helpers/type-utils";  
   
 const myFunc = () => {  
@@ -15,12 +17,27 @@ const myFunc = () => {
   
 /**  
  * How do we extract MyFuncReturn from myFunc? 
- */ 
-type MyFuncReturn = ReturnType<typeof myFunc>;  
+ */
+type MyFuncReturn = unknown;  
   
 type tests = [Expect<Equal<MyFuncReturn, string>>];
 ```
 
+
+```ts file:solution fold 
+import { Equal, Expect } from "../helpers/type-utils";  
+  
+const myFunc = () => {  
+  return "hello";  
+};  
+  
+/**  
+ * How do we extract MyFuncReturn from myFunc? 
+ */
+type MyFuncReturn = ReturnType<typeof myFunc>;  
+  
+type tests = [Expect<Equal<MyFuncReturn, string>>];
+```
 # 知识点
 
 ## `ReturnType`

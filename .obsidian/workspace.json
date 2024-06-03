@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0c43f6467a790d4e",
+        "id": "206ef906e226f276",
         "type": "tabs",
         "children": [
           {
-            "id": "4fa410f1d50f78f8",
+            "id": "713851ecb7cfe9af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5,
-    "collapsed": true
+    "width": 220.5
   },
   "right": {
     "id": "a7efe540d3c49ad6",
@@ -180,9 +179,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4fa410f1d50f78f8",
+  "active": "713851ecb7cfe9af",
   "lastOpenFiles": [
     "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md",
+    "courses/total-typescript/workshops/01 Type Transformations/02-get-function-parameters.md",
+    "courses/total-typescript/workshops/01 Type Transformations/Untitled",
+    "00 Index/02-get-function-parameters.md",
+    "00 Index/02-.md",
+    "00 Index/Untitled 3.md",
+    "00 Index/Untitled 2.md",
+    "Untitled",
     "courses/total-typescript/workshops/01 Type Transformations/note.md",
     "courses/total-typescript/workshops/01 Type Transformations/00.md",
     "courses/total-typescript/workshops/配套资源.md",
@@ -211,14 +217,7 @@
     "attachment/Pasted image 20240515232825.png",
     "topics/monorepo",
     "Interview/JavaScript/图片怎么转 canvas，canvas 转图片？/index.md",
-    "Interview/Algo/一个数组里有一堆数字，拼接得到一个最大的数字/index.md",
-    "Interview/H5&C3/什么是 CSS 中的回流（重排）与重绘？/index.md",
     "courses/total-typescript",
-    "bookstore/JavaScript 设计模式与开发实践/目录/Chapter01-面向对象的 JavaScript",
-    "bookstore/JavaScript 设计模式与开发实践/目录",
-    "bookstore/Head First设计模式（第二版）/_reference.md",
-    "bookstore/Head First设计模式（第二版）/目录/00 总览.md",
-    "bookstore/Head First设计模式（第二版）/gpt/StrategyPattern 策略模式.md",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",
     "attachment/Pasted image 20240404161828.png",
