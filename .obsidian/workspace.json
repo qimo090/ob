@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2a84b136d0399ff6",
+        "id": "0c43f6467a790d4e",
         "type": "tabs",
         "children": [
           {
-            "id": "5d42756cf4db8d40",
+            "id": "4fa410f1d50f78f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 220.5,
+    "collapsed": true
   },
   "right": {
     "id": "a7efe540d3c49ad6",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md"
+              }
             }
           },
           {
@@ -138,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md"
+              }
             }
           },
           {
@@ -150,11 +161,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +180,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d42756cf4db8d40",
+  "active": "4fa410f1d50f78f8",
   "lastOpenFiles": [
+    "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md",
+    "courses/total-typescript/workshops/01 Type Transformations/note.md",
+    "courses/total-typescript/workshops/01 Type Transformations/00.md",
+    "courses/total-typescript/workshops/配套资源.md",
+    "courses/total-typescript/00-reference.md",
+    "courses/total-typescript/workshops/04 Advanced React with TypeScript",
+    "courses/total-typescript/workshops/03 Advanced TypeScript Patterns",
+    "courses/total-typescript/workshops/02 TypeScript Generics",
+    "courses/total-typescript/workshops/01 Type Transformations",
+    "courses/total-typescript/workshops",
     "templates/ai.md",
     "00 Index/Untitled 1.md",
     "templates/article.md",
@@ -187,7 +209,6 @@
     "topics/monorepo/00.md",
     "00 Index/资源整理.md",
     "attachment/Pasted image 20240515232825.png",
-    "courses/total-typescript/00-reference.md",
     "topics/monorepo",
     "Interview/JavaScript/图片怎么转 canvas，canvas 转图片？/index.md",
     "Interview/Algo/一个数组里有一堆数字，拼接得到一个最大的数字/index.md",
@@ -195,18 +216,9 @@
     "courses/total-typescript",
     "bookstore/JavaScript 设计模式与开发实践/目录/Chapter01-面向对象的 JavaScript",
     "bookstore/JavaScript 设计模式与开发实践/目录",
-    "bookstore/JavaScript 设计模式与开发实践",
     "bookstore/Head First设计模式（第二版）/_reference.md",
     "bookstore/Head First设计模式（第二版）/目录/00 总览.md",
     "bookstore/Head First设计模式（第二版）/gpt/StrategyPattern 策略模式.md",
-    "bookstore/Head First设计模式（第二版）/目录/02 观察者模式/index.md",
-    "bookstore/Head First设计模式（第二版）/目录/01 策略模式",
-    "bookstore/Head First设计模式（第二版）/目录/03 装饰器模式/index.md",
-    "bookstore/Head First设计模式（第二版）/目录/02 观察者模式",
-    "topics/design-patterns/策略模式/0.5 设计原则基础.md",
-    "网站收藏",
-    "topics/design-patterns/策略模式",
-    "topics/design-patterns/GPT.md",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",
     "attachment/Pasted image 20240404161828.png",
