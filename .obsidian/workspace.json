@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2bb44773ccd3a4c3",
+        "id": "ba997174b6d0a2c5",
         "type": "tabs",
         "children": [
           {
-            "id": "b5624516c7e5ebb8",
+            "id": "5c37dd5865da5fa5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,14 +168,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5624516c7e5ebb8",
+  "active": "5c37dd5865da5fa5",
   "lastOpenFiles": [
+    "courses/total-typescript/workshops/01 Type Transformations/04-get-object-keys.md",
+    "00 Index/AMap.md",
     "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md",
     "courses/total-typescript/workshops/01 Type Transformations/02-get-function-parameters.md",
+    "courses/total-typescript/workshops/01 Type Transformations/03-awaited.md",
     "courses/total-typescript/workshops/01 Type Transformations/Untitled",
     "00 Index/02-get-function-parameters.md",
     "00 Index/02-.md",
-    "00 Index/Untitled 3.md",
     "00 Index/Untitled 2.md",
     "Untitled",
     "courses/total-typescript/workshops/01 Type Transformations/note.md",
@@ -202,10 +204,8 @@
     "bookstore/hello-algo/chapters/01 初识算法.md",
     "bookstore/JavaScript 设计模式与开发实践/目录/Chapter01-面向对象的 JavaScript/index.md",
     "topics/monorepo/00.md",
-    "00 Index/资源整理.md",
     "attachment/Pasted image 20240515232825.png",
     "topics/monorepo",
-    "Interview/JavaScript/图片怎么转 canvas，canvas 转图片？/index.md",
     "courses/total-typescript",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",

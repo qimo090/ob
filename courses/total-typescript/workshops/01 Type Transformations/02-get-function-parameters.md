@@ -1,6 +1,6 @@
 ---
 created: 2024-06-03T22:54
-updated: 2024-06-03T23:42
+updated: 2024-06-05T23:17
 ---
 # Problem
 
@@ -38,6 +38,8 @@ type tests = [
 ];
 ```
 
+# Solution
+
 ```ts file:solution fold
 import { Equal, Expect } from "../helpers/type-utils";  
   
@@ -74,7 +76,7 @@ type tests = [
 
 # 解析
 
-## `Parameters`
+`Parameters`
 
 文档：[https://www.typescriptlang.org/docs/handbook/utility-types.html#parameterstype](https://www.typescriptlang.org/docs/handbook/utility-types.html#parameterstype)
 

@@ -1,6 +1,6 @@
 ---
 created: 2024-06-02T20:33
-updated: 2024-06-03T23:28
+updated: 2024-06-05T23:17
 tags:
   - TypeScript
   - ReturnType
@@ -23,6 +23,7 @@ type MyFuncReturn = unknown;
 type tests = [Expect<Equal<MyFuncReturn, string>>];
 ```
 
+# Solution
 
 ```ts file:solution fold 
 import { Equal, Expect } from "../helpers/type-utils";  
@@ -41,7 +42,7 @@ type tests = [Expect<Equal<MyFuncReturn, string>>];
 
 # 解析
 
-## `ReturnType`
+`ReturnType`
 
 文档：[https://www.typescriptlang.org/docs/handbook/utility-types.html#returntypetype](https://www.typescriptlang.org/docs/handbook/utility-types.html#returntypetype)
 
