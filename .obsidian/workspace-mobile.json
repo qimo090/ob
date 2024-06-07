@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/00.md",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md",
                 "mode": "preview",
                 "source": false
               }
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "courses/total-typescript/workshops/01 Type Transformations/00.md",
+            "file": "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "courses/total-typescript/workshops/01 Type Transformations/00.md",
+            "file": "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "courses/total-typescript/workshops/01 Type Transformations/00.md"
+            "file": "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md"
           }
         }
       }
@@ -159,8 +159,8 @@
   },
   "active": "139d09718fc26d37",
   "lastOpenFiles": [
-    "00 Index/02-get-function-parameters.md",
     "courses/total-typescript/workshops/01 Type Transformations/00.md",
+    "00 Index/02-get-function-parameters.md",
     "topics/monorepo/00.md",
     "00 Index/Untitled 2.md",
     "Untitled",
