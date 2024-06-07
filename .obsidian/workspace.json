@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ccebdb78abe9012c",
+        "id": "dbd84bff633b6698",
         "type": "tabs",
         "children": [
           {
-            "id": "b567faeee643c14d",
+            "id": "6f1e05936058af53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Concrete",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 367.5
   },
   "right": {
     "id": "a7efe540d3c49ad6",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md"
+              }
             }
           },
           {
@@ -138,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md"
+              }
             }
           },
           {
@@ -168,22 +178,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b567faeee643c14d",
+  "active": "6f1e05936058af53",
   "lastOpenFiles": [
-    "courses/total-typescript/workshops/01 Type Transformations/04-get-object-keys.md",
+    "courses/课程集合.md",
+    "courses/total-typescript/00-reference.md",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md",
+    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/04-get-object-keys.md",
+    "courses/total-typescript/workshops/01 Type Transformations/00.md",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing",
+    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/01-get-function-return-type .md",
+    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic",
+    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/03-awaited.md",
     "00 Index/AMap.md",
-    "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md",
-    "courses/total-typescript/workshops/01 Type Transformations/02-get-function-parameters.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03-awaited.md",
-    "courses/total-typescript/workshops/01 Type Transformations/Untitled",
+    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/02-get-function-parameters.md",
     "00 Index/02-get-function-parameters.md",
     "00 Index/02-.md",
     "00 Index/Untitled 2.md",
     "Untitled",
     "courses/total-typescript/workshops/01 Type Transformations/note.md",
-    "courses/total-typescript/workshops/01 Type Transformations/00.md",
     "courses/total-typescript/workshops/配套资源.md",
-    "courses/total-typescript/00-reference.md",
     "courses/total-typescript/workshops/04 Advanced React with TypeScript",
     "courses/total-typescript/workshops/03 Advanced TypeScript Patterns",
     "courses/total-typescript/workshops/02 TypeScript Generics",
@@ -202,11 +215,8 @@
     "00 Index/serverless 解耦及部署问题.md",
     "bookstore/Head First设计模式（第二版）/目录/01 策略模式/index.md",
     "bookstore/hello-algo/chapters/01 初识算法.md",
-    "bookstore/JavaScript 设计模式与开发实践/目录/Chapter01-面向对象的 JavaScript/index.md",
-    "topics/monorepo/00.md",
     "attachment/Pasted image 20240515232825.png",
     "topics/monorepo",
-    "courses/total-typescript",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",
     "attachment/Pasted image 20240404161828.png",
