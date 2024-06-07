@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba997174b6d0a2c5",
+        "id": "ccebdb78abe9012c",
         "type": "tabs",
         "children": [
           {
-            "id": "5c37dd5865da5fa5",
+            "id": "b567faeee643c14d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,7 +168,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c37dd5865da5fa5",
+  "active": "b567faeee643c14d",
   "lastOpenFiles": [
     "courses/total-typescript/workshops/01 Type Transformations/04-get-object-keys.md",
     "00 Index/AMap.md",
