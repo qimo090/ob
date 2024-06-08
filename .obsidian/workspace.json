@@ -11,8 +11,12 @@
             "id": "87b6100bc7e53ea6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07-exclude-from-discriminated-union.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07-exclude-from-discriminated-union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07-exclude-from-discriminated-union.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07-exclude-from-discriminated-union.md"
+              }
             }
           },
           {
@@ -138,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07-exclude-from-discriminated-union.md"
+              }
             }
           },
           {
@@ -171,6 +181,7 @@
   "active": "87b6100bc7e53ea6",
   "lastOpenFiles": [
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/06-extract-from-discriminated-union.md",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07-exclude-from-discriminated-union.md",
     "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/03-awaited.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md",
     "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/04-get-object-keys.md",
@@ -204,7 +215,6 @@
     "z-obsidian-help/Callouts 标注.md",
     "z-obsidian-help",
     "00 Index/serverless 解耦及部署问题.md",
-    "bookstore/Head First设计模式（第二版）/目录/01 策略模式/index.md",
     "attachment/Pasted image 20240515232825.png",
     "topics/monorepo",
     "attachment/Pasted image 20240404162408.png",

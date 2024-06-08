@@ -21,6 +21,7 @@
     "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/03-awaited.md": "1e86e1bb53e03c31227fe1d139d377cdb63cc22d737e9ad5cbcfc7e08cc2d9e7",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md": "9d1f03b08ccd6a07de316ca839e1ddedd0855a1f7dc2b3095e7be019b37d7902",
     "courses/课程集合.md": "b474ba4b1775d6181cf6f80f53dc372ddd572f5630c360698dba053446dbc12d",
-    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/06-extract-from-discriminated-union.md": "a7d52a4b9f3103f42fc134f5c7df6e526d5cebc64d376870bca5c953673ae88c"
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/06-extract-from-discriminated-union.md": "a7d52a4b9f3103f42fc134f5c7df6e526d5cebc64d376870bca5c953673ae88c",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07-exclude-from-discriminated-union.md": "faafcd039dd701b5082004b29db77f739b474a1d4f74dea30bfbb1049dd46625"
   }
 }
