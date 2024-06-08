@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dbd84bff633b6698",
+        "id": "f79d37ee4761fbba",
         "type": "tabs",
         "children": [
           {
-            "id": "6f1e05936058af53",
+            "id": "2abf328bea6bedb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,19 +178,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f1e05936058af53",
+  "active": "2abf328bea6bedb4",
   "lastOpenFiles": [
+    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/04-get-object-keys.md",
+    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/03-awaited.md",
+    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/02-get-function-parameters.md",
+    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/01-get-function-return-type .md",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md",
     "courses/课程集合.md",
     "courses/total-typescript/00-reference.md",
-    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md",
-    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/04-get-object-keys.md",
     "courses/total-typescript/workshops/01 Type Transformations/00.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing",
-    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/01-get-function-return-type .md",
     "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic",
-    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/03-awaited.md",
     "00 Index/AMap.md",
-    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/02-get-function-parameters.md",
     "00 Index/02-get-function-parameters.md",
     "00 Index/02-.md",
     "00 Index/Untitled 2.md",

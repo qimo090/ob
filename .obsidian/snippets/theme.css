@@ -1,4 +1,5 @@
 .theme-dark {
-  --line-height-normal: 1.75;
-  --p-spacing: 0.6rem;
+  /* --line-height-normal: 1.75; */
+  /* --p-spacing: 0.6rem; */
+  --file-line-width: 960px;
 }

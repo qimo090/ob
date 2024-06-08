@@ -1,6 +1,8 @@
 {
   "accentColor": "",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "theme"
+  ],
   "cssTheme": "",
   "theme": "system"
 }

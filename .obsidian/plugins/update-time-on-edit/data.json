@@ -15,11 +15,11 @@
     "courses/total-typescript/workshops/01 Type Transformations/00.md": "c1be912f58c83326c7ae4591afeaa4d1425f493559d658620ad0b6095f16aeec",
     "courses/total-typescript/workshops/配套资源.md": "80d20d6a447eac8cbf7e034f4e75d2537817ee13e0ccadc5505ef260a01b0da1",
     "00 Index/AMap.md": "022665603762cce9538abe2de1b837b1cd9a8b70db7863cb5a4ab4437291a2e1",
-    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/04-get-object-keys.md": "0dc532d724e32ea85f297956fa462dd7be1c7e6c76c56f13eccf8f9d8b6e3b4b",
-    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/01-get-function-return-type .md": "61e1478caf669688e26d0a48b534d3806545b1c1639ce44eae0510d4949aca34",
-    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/02-get-function-parameters.md": "a93c066b9fde1a4c88e088733b02ebfd1fb201d9463ec1dd7bdc26c56a672699",
-    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/03-awaited.md": "8f319cbc4d91e87725d2681279626a9581b58373a9b68e8f99ae1d4cd0c02e8b",
-    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md": "40be79fd2fdc40630c09dac6cad821aece0753778349968cbca478ae7ace7be3",
+    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/04-get-object-keys.md": "3a4b9b37de5be747356c0f6416c03eb7bcafeccb6cb93fdc1b3a79a26d3bbe56",
+    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/01-get-function-return-type .md": "14595dd3467d3595e26e8c439f8647f22977559507014f2c4b3fb7a3a0e84d20",
+    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/02-get-function-parameters.md": "32d57017c3831baf0a4bb4e51adc9f95ba34078a3a6c7f20640f7f270ae46f0a",
+    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/03-awaited.md": "1e86e1bb53e03c31227fe1d139d377cdb63cc22d737e9ad5cbcfc7e08cc2d9e7",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md": "9d1f03b08ccd6a07de316ca839e1ddedd0855a1f7dc2b3095e7be019b37d7902",
     "courses/课程集合.md": "b474ba4b1775d6181cf6f80f53dc372ddd572f5630c360698dba053446dbc12d"
   }
 }

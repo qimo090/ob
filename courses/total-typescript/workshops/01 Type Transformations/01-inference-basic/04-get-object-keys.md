@@ -2,8 +2,9 @@
 tags:
   - TypeScript
   - KeyOf
+url: https://www.typescriptlang.org/docs/handbook/2/keyof-types.html
 created: 2024-06-05T23:13
-updated: 2024-06-08T00:00
+updated: 2024-06-08T11:49
 ---
 # Problem
 

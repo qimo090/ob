@@ -1,10 +1,10 @@
 ---
-created: 2024-06-02T20:33
-updated: 2024-06-05T23:17
 tags:
   - TypeScript
   - ReturnType
-  - UtilityTypes
+url: https://www.typescriptlang.org/docs/handbook/utility-types.html#returntypetype
+created: 2024-06-02T20:33
+updated: 2024-06-08T11:49
 ---
 # Problem
 
