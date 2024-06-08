@@ -20,6 +20,7 @@
     "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/02-get-function-parameters.md": "32d57017c3831baf0a4bb4e51adc9f95ba34078a3a6c7f20640f7f270ae46f0a",
     "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/03-awaited.md": "1e86e1bb53e03c31227fe1d139d377cdb63cc22d737e9ad5cbcfc7e08cc2d9e7",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md": "9d1f03b08ccd6a07de316ca839e1ddedd0855a1f7dc2b3095e7be019b37d7902",
-    "courses/课程集合.md": "b474ba4b1775d6181cf6f80f53dc372ddd572f5630c360698dba053446dbc12d"
+    "courses/课程集合.md": "b474ba4b1775d6181cf6f80f53dc372ddd572f5630c360698dba053446dbc12d",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/06-extract-from-discriminated-union.md": "c9e085e6a04ee53acc8b33ddd4cc55234bc0fe008902cbd0616b47befc25b7a0"
   }
 }
