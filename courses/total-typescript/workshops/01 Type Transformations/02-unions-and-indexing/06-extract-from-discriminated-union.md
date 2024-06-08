@@ -4,7 +4,7 @@ tags:
   - Extract
 url: https://www.typescriptlang.org/docs/handbook/utility-types.html#extracttype-union
 created: 2024-06-08T11:53
-updated: 2024-06-08T12:44
+updated: 2024-06-08T13:02
 ---
 # Problem
 
@@ -149,3 +149,24 @@ type Primitive = string | number | boolean | null | undefined;
 type NonNullablePrimitive = Extract<Primitive, NonNullable<Primitive>>;
 // 结果是 string | number | boolean
 ```
+
+#### 2. 在泛型函数中使用
+
+`Extract` 也可以在泛型函数中使用，已实现类型安全的类型过滤：
+
+```ts
+function extractType<T, U>(value: T): Extract<T, U> | unknown {  
+  if (typeof value !== typeof (null as U)) {  
+    return value as Extract<T, U>;  
+  }  
+  
+  return undefined;
+}  
+  
+const result = extractType<string | number | boolean, string>("hello");  
+// 结果是 'hello'
+```
+
+### 总结
+
+`Extract` 是 TypeScript 中一个非常有用的条件类型，它可以从联合类型中提取出特定的子类型。通过使用 `Extract`，我们可以实现类型过滤和类型转换，从而提高代码的类型安全性和可读性。

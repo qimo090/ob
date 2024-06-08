@@ -27,6 +27,7 @@
     "create time": "datetime",
     "update time": "datetime",
     "created": "datetime",
-    "excalidraw-embeddable-theme": "text"
+    "excalidraw-embeddable-theme": "text",
+    "updated": "datetime"
   }
 }
