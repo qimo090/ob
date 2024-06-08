@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae4f743abb250bb7",
+        "id": "d72a30cb03d7801d",
         "type": "tabs",
         "children": [
           {
-            "id": "67f1cd96be30df6a",
+            "id": "87b6100bc7e53ea6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,7 +168,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67f1cd96be30df6a",
+  "active": "87b6100bc7e53ea6",
   "lastOpenFiles": [
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/06-extract-from-discriminated-union.md",
     "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/03-awaited.md",
