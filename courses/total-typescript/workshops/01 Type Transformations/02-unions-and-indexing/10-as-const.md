@@ -1,6 +1,10 @@
 ---
 created: 2024-06-09T22:45
 updated: 2024-06-09T22:46
+tags:
+  - TypeScript
+  - AsConst
+url: https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-4.html#const-assertions
 ---
 # Problem
 
