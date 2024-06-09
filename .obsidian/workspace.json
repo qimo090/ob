@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d72a30cb03d7801d",
+        "id": "0ecd31a0ba7113bd",
         "type": "tabs",
         "children": [
           {
-            "id": "87b6100bc7e53ea6",
+            "id": "1c41fd28ce948521",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07.5-union-type.md",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07.5-union-type.md",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07.5-union-type.md",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07.5-union-type.md"
+                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07.5-union-type.md"
+                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md"
               }
             }
           },
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87b6100bc7e53ea6",
+  "active": "1c41fd28ce948521",
   "lastOpenFiles": [
-    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07-exclude-from-discriminated-union.md",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/09-discriminated-union-to-discriminator.md",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/08-indexed-access.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07.5-union-type.md",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07-exclude-from-discriminated-union.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/06-extract-from-discriminated-union.md",
     "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/03-awaited.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md",
@@ -211,9 +214,6 @@
     "articles/30 seconds of code/Radians to degrees.md",
     "articles/30 seconds of code/Value to safe integer.md",
     "articles/30 seconds of code/根据某个 key 组合 2 个 JavaScript 对象数组.md",
-    "articles/30 seconds of code/【X】使用 Proxy 来实现 Observable 设计模式.md",
-    "网站收藏/00.md",
-    "z-obsidian-help/Callouts 标注.md",
     "z-obsidian-help",
     "attachment/Pasted image 20240515232825.png",
     "topics/monorepo",

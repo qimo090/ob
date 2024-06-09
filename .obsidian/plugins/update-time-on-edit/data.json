@@ -23,6 +23,9 @@
     "courses/课程集合.md": "b474ba4b1775d6181cf6f80f53dc372ddd572f5630c360698dba053446dbc12d",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/06-extract-from-discriminated-union.md": "a7d52a4b9f3103f42fc134f5c7df6e526d5cebc64d376870bca5c953673ae88c",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07-exclude-from-discriminated-union.md": "faafcd039dd701b5082004b29db77f739b474a1d4f74dea30bfbb1049dd46625",
-    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07.5-union-type.md": "f9eea692c677d5948b1ae60e4a9862b61a884cacee75a23f1b40ff2e13f4a576"
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07.5-union-type.md": "f9eea692c677d5948b1ae60e4a9862b61a884cacee75a23f1b40ff2e13f4a576",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/08-indexed-access.md": "7e970120d4aa2d1e9a60b4dc94b6562b9e4256163ec309e2f9948aee31bb0919",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/09-discriminated-union-to-discriminator.md": "fec146849565e286119bc6ef900474c977b7e38cfbc9bdf45daba815289e0a1b",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md": "036782fe571082616c5f6c3cb672147b684606904a86b2dcb110d6eccb6ce175"
   }
 }
