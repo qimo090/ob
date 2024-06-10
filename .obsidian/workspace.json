@@ -158,9 +158,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "9691cc18c0f3b1d6",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -176,12 +184,16 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "float-search:Search Obsidian In Modal": false
+      "float-search:Search Obsidian In Modal": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "aa40ae69e2fb0c23",
+  "active": "9691cc18c0f3b1d6",
   "lastOpenFiles": [
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/11-indexed-access-with-unions.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md",
+    "smart-chats",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/09-discriminated-union-to-discriminator.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/08-indexed-access.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07.5-union-type.md",
@@ -214,10 +226,8 @@
     "templates/article.md",
     "articles/30 seconds of code/Radians to degrees.md",
     "articles/30 seconds of code/Value to safe integer.md",
-    "articles/30 seconds of code/根据某个 key 组合 2 个 JavaScript 对象数组.md",
     "z-obsidian-help",
     "attachment/Pasted image 20240515232825.png",
-    "topics/monorepo",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",
     "attachment/Pasted image 20240404161828.png",

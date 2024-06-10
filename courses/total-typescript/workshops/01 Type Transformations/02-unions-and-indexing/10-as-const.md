@@ -1,6 +1,6 @@
 ---
 created: 2024-06-09T22:45
-updated: 2024-06-09T22:46
+updated: 2024-06-10T10:40
 tags:
   - TypeScript
   - AsConst
@@ -42,3 +42,7 @@ type tests = [
   Expect<Equal<PlannedSelfDirectedProgram, "plannedSelfDirected">>,  
 ];
 ```
+
+# Solution
+
+
