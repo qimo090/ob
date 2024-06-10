@@ -11,8 +11,12 @@
             "id": "0df53411ae6d7668",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.6-not-undefined-or-null-constraint.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.6-not-undefined-or-null-constraint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.6-not-undefined-or-null-constraint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.6-not-undefined-or-null-constraint.md"
+              }
             }
           },
           {
@@ -138,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.6-not-undefined-or-null-constraint.md"
+              }
             }
           },
           {
@@ -171,6 +181,9 @@
   },
   "active": "0df53411ae6d7668",
   "lastOpenFiles": [
+    "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.5-function-constraints.md",
+    "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.6-not-undefined-or-null-constraint.md",
+    "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.4-defaults.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.3-multiple.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.2-constraints.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.1-maybe.md",
@@ -195,9 +208,6 @@
     "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/18-template-literals-in-object-keys.md",
     "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/17-splitting-strings.md",
     "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/16-unions-in-template-literals.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/15-extract-with-template-literals.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/14-template-literal-with-string.md",
-    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/13-get-array-value.md",
     "courses/total-typescript/workshops/01 Type Transformations/03-template-literals",
     "smart-chats",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing",

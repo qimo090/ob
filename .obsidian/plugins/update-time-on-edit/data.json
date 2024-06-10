@@ -50,6 +50,9 @@
     "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20-type-helpers-pattern.md": "a147cac692955de328b5612cff87c578e1457d8a91a70cb0df0c4649cd639965",
     "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.1-maybe.md": "5c06be63bd043971070e577654adeddd367393aa06b7fcfafb29dbaaa0fd5fd8",
     "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.2-constraints.md": "097f2807937a83775f1372218c8620bae0bb0e39aa91608b558676cfe2542dc0",
-    "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.3-multiple.md": "ae7a4a4264d35450e2347dec4ddcf365ba265396732c38854aba4aa47c6f8247"
+    "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.3-multiple.md": "ae7a4a4264d35450e2347dec4ddcf365ba265396732c38854aba4aa47c6f8247",
+    "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.4-defaults.md": "880364b5f812a7ac97d8a64147d993b440d3402289755029ce69ffc7c695557c",
+    "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.5-function-constraints.md": "0656776e7fa5ebb777a41dee358ad4096591a70c2ec60be1719195bb690d7d56",
+    "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.6-not-undefined-or-null-constraint.md": "94fc91fa46367cc99f8026f0cdd85c5060d75ab156c679e646eada13c90d9676"
   }
 }
