@@ -1,8 +1,10 @@
 ---
 tags:
   - JavaScript
-  - 继承
-  - 原型链
+  - JavaScript/继承
+  - JavaScript/原型链
+created: 2024-02-13T13:23
+updated: 2024-06-10T13:43
 ---
 # 建议回答
 

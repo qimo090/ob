@@ -1,9 +1,9 @@
 ---
 created: 2024-06-09T22:45
-updated: 2024-06-10T10:53
+updated: 2024-06-10T13:40
 tags:
   - TypeScript
-  - AsConst
+  - TypeScript/AsConst
 url: https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-4.html#const-assertions
 ---
 # Problem

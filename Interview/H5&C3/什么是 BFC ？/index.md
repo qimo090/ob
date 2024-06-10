@@ -1,7 +1,9 @@
 ---
 tags:
   - CSS
-  - BFC
+  - CSS/BFC
+created: 2024-02-15T13:16
+updated: 2024-06-10T13:42
 ---
 BFC（Block Formatting Context）是 CSS 中一个很重要的概念。它是指一个块级容器，其中的元素按照特定规则布局和渲染，同时也影响着其内部和外部元素的布局。
 

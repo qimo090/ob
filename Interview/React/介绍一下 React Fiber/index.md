@@ -1,7 +1,9 @@
 ---
 tags:
   - React
-  - React-Fiber
+  - React/Fiber
+created: 2024-02-14T18:53
+updated: 2024-06-10T13:41
 ---
 React Fiber 是 React v16 中引入的一种新的协调算法，它被设计用来解决 React 在处理大型应用时可能出现的性能问题。本文将详细介绍 React Fiber 的背景、原理和优势。
 # 背景

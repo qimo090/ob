@@ -2,9 +2,9 @@
 url: https://www.typescriptlang.org/docs/handbook/utility-types.html#awaitedtype
 tags:
   - TypeScript
-  - Awaited
+  - TypeScript/Awaited
 created: 2024-06-05T22:56
-updated: 2024-06-08T11:49
+updated: 2024-06-10T13:38
 ---
 # Problem
 

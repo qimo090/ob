@@ -1,10 +1,10 @@
 ---
 tags:
   - TypeScript
-  - DiscriminatedUnions
+  - TypeScript/DiscriminatedUnions
 url: https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html#discriminated-unions
 created: 2024-06-08T00:01
-updated: 2024-06-08T11:49
+updated: 2024-06-10T13:39
 ---
 ```ts
 /**  

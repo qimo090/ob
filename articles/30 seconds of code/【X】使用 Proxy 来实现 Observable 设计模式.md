@@ -1,10 +1,12 @@
 ---
 tags:
   - JavaScript
-  - Object
+  - JavaScript/Object
 create time: 2024-05-29T23:08:00
 update time: 2024-05-29T23:08:00
 url: https://www.30secondsofcode.org/js/s/observable-proxy/
+created: 2024-05-29T23:04
+updated: 2024-06-10T13:43
 ---
 观察者模式是一种设计模式，其中对象（称为主体）维护一个从属项（观察者）列表，这些从属项（观察者）在对象状态的任何更改时都会收到通知。只要稍加聪明，我们就可以利用`EventTarget`接口和`Proxy`对象在 JavaScript 中实现 Observer 模式。
 

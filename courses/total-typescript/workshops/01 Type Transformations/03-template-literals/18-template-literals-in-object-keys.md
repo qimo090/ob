@@ -1,10 +1,10 @@
 ---
 created: 2024-06-10T12:41
-updated: 2024-06-10T12:47
+updated: 2024-06-10T13:41
 tags:
   - TypeScript
-  - TemplateLiteral
-  - Record
+  - TypeScript/TemplateLiteral
+  - TypeScript/Record
 ---
 # Problem
 

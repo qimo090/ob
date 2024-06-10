@@ -1,11 +1,11 @@
 ---
 tags:
   - JavaScript
-  - Math
+  - JavaScript/Math
 url: https://www.30secondsofcode.org/js/s/to-safe-integer
 source: 30 seconds of code
 created: 2023-07-08T09:48:00
-updated: 2024-05-31T22:50
+updated: 2024-06-10T13:43
 ---
 [Number.MIN_SAFE_INTEGER - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Number/MIN_SAFE_INTEGER)
 

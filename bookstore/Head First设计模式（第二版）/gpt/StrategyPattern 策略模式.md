@@ -1,9 +1,11 @@
 ---
 tags:
   - DesignPattern
-  - StrategyPattern
+  - DesignPattern/StrategyPattern
 type: 对象行为型
 source: GPT
+created: 2024-04-05T22:29
+updated: 2024-06-10T13:41
 ---
 # 智谱清言
 策略模式（Strategy Pattern）是一种行为设计模式，它定义了一系列的算法，把它们一个个封装起来，并且使它们可以互相替换。该模式让算法的变化独立于使用算法的客户。策略模式属于对象行为型模式，它通过对算法进行封装，把使用算法的责任和算法的实现分割开来，并委派给不同的对象对这些算法进行管理。

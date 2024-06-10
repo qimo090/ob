@@ -1,7 +1,9 @@
 ---
 tags:
   - React
-  - HOC
+  - React/HOC
+created: 2024-02-14T19:21
+updated: 2024-06-10T13:42
 ---
 React中常用的高阶组件HOC有很多，以下是一些常见的HOC：
 

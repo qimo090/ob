@@ -1,8 +1,10 @@
 ---
 tags:
   - Obsidian
-  - Callouts
+  - Obsidian/Callouts
 url: https://help.obsidian.md/Editing+and+formatting/Callouts
+created: 2024-01-29T23:56
+updated: 2024-06-10T13:41
 ---
 > [!info]
 > 普通的 info 标注

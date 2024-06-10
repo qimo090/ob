@@ -1,7 +1,9 @@
 ---
 tags:
-  - 资源提示符
+  - HTML/资源提示符
   - HTML
+created: 2024-01-31T22:04
+updated: 2024-06-10T13:44
 ---
 # 常用的资源提示符
 + [async](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/script#async)

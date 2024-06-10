@@ -1,10 +1,10 @@
 ---
 tags:
   - TypeScript
-  - Extract
+  - TypeScript/Extract
 url: https://www.typescriptlang.org/docs/handbook/utility-types.html#extracttype-union
 created: 2024-06-08T11:53
-updated: 2024-06-08T13:02
+updated: 2024-06-10T13:40
 ---
 # Problem
 

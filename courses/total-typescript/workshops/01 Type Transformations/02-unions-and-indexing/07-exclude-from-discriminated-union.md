@@ -1,10 +1,10 @@
 ---
 tags:
   - TypeScript
-  - Exclude
+  - TypeScript/Exclude
 url: https://www.typescriptlang.org/docs/handbook/utility-types.html#excludeuniontype-excludedmembers
 created: 2024-06-08T20:22
-updated: 2024-06-08T20:31
+updated: 2024-06-10T13:40
 ---
 # Problem
 

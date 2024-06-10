@@ -1,7 +1,9 @@
 ---
 tags:
   - HTML
-  - DOM加载时间线
+  - HTML/DOM
+created: 2024-01-31T22:24
+updated: 2024-06-10T13:44
 ---
 # [渡一](https://ke.qq.com/course/231577/1731614849861785#term_id=100273169)
 1. 创建Document对象，开始解析web页面。这个阶段 `document.readyState = 'loading'`.

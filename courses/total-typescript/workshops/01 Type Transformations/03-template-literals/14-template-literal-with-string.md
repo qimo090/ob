@@ -1,10 +1,10 @@
 ---
 tags:
   - TypeScript
-  - TemplateLiteral
+  - TypeScript/TemplateLiteral
 url: https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html
 created: 2024-06-10T12:02
-updated: 2024-06-10T12:06
+updated: 2024-06-10T13:40
 ---
 # Problem
 

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "66ca9127796e8732",
+        "id": "b0b540ba7452feba",
         "type": "tabs",
         "children": [
           {
-            "id": "56d988fc548b6291",
+            "id": "95e3184d83422fc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/19-uppercase-object.md",
-                "mode": "source",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/00.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#example",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/19-uppercase-object.md",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/19-uppercase-object.md",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/00.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/19-uppercase-object.md"
+                "file": "courses/total-typescript/workshops/01 Type Transformations/00.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/19-uppercase-object.md"
+                "file": "courses/total-typescript/workshops/01 Type Transformations/00.md"
               }
             }
           },
@@ -179,44 +179,43 @@
       "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "56d988fc548b6291",
+  "active": "95e3184d83422fc5",
   "lastOpenFiles": [
-    "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/18-template-literals-in-object-keys.md",
+    "courses/total-typescript/workshops/01 Type Transformations/Untitled.md",
+    "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers",
+    "courses/total-typescript/workshops/01 Type Transformations/00.md",
+    "courses/total-typescript/00-reference.md",
+    "JavaScript/JS 加载时间线/index.md",
+    "JavaScript/资源提示符/index.md",
+    "Interview/H5&C3/CSS 中常用的垂直居中解决方案有哪些？/index.md",
+    "Interview/JavaScript/Js中实现继承的几种方式/index.md",
+    "articles/30 seconds of code/【X】使用 Proxy 来实现 Observable 设计模式.md",
+    "articles/30 seconds of code/Value to safe integer.md",
+    "articles/30 seconds of code/根据某个 key 组合 2 个 JavaScript 对象数组.md",
+    "Interview/React/React中常用的高阶组件有哪些？/index.md",
+    "Interview/H5&C3/什么是 BFC ？/index.md",
     "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/19-uppercase-object.md",
+    "bookstore/Head First设计模式（第二版）/gpt/StrategyPattern 策略模式.md",
+    "Interview/React/介绍一下 React Fiber/index.md",
+    "z-obsidian-help/Callouts 标注.md",
+    "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/18-template-literals-in-object-keys.md",
     "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/17-splitting-strings.md",
     "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/16-unions-in-template-literals.md",
     "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/15-extract-with-template-literals.md",
     "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/14-template-literal-with-string.md",
-    "courses/total-typescript/workshops/01 Type Transformations/00.md",
-    "courses/total-typescript/00-reference.md",
-    "00 Index/Untitled 3.md",
-    "courses/课程集合.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03-template-literals",
-    "courses/total-typescript/workshops/配套资源.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/13-get-array-value.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/12-get-object-values.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/11-indexed-access-with-unions.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md",
-    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/09-discriminated-union-to-discriminator.md",
+    "courses/total-typescript/workshops/01 Type Transformations/03-template-literals",
     "smart-chats",
-    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/08-indexed-access.md",
-    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07.5-union-type.md",
-    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07-exclude-from-discriminated-union.md",
-    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/06-extract-from-discriminated-union.md",
-    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/03-awaited.md",
-    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md",
-    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/04-get-object-keys.md",
-    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/02-get-function-parameters.md",
-    "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/01-get-function-return-type .md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing",
     "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic",
-    "00 Index/AMap.md",
     "Untitled",
     "courses/total-typescript/workshops/04 Advanced React with TypeScript",
     "courses/total-typescript/workshops/03 Advanced TypeScript Patterns",
     "courses/total-typescript/workshops/02 TypeScript Generics",
     "courses/total-typescript/workshops/01 Type Transformations",
-    "courses/total-typescript/workshops",
     "attachment/Pasted image 20240515232825.png",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",

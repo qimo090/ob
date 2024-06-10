@@ -1,10 +1,10 @@
 ---
 tags:
   - TypeScript
-  - Parameters
+  - TypeScript/Parameters
 url: https://www.typescriptlang.org/docs/handbook/utility-types.html#parameterstype
 created: 2024-06-03T22:54
-updated: 2024-06-08T11:49
+updated: 2024-06-10T13:38
 ---
 # Problem
 

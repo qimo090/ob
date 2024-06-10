@@ -1,8 +1,10 @@
 ---
 tags:
   - JavaScript
-  - Array
+  - JavaScript/Array
 url: https://www.30secondsofcode.org/js/s/combine-object-arrays/
+created: 2024-03-31T21:25
+updated: 2024-06-10T13:43
 ---
 你是否曾经需要组合两个对象数组？也许每个对象都包含有关同一对象的部分信息，并且你希望将它们合并到一个数组中。那么你会怎么做呢？
 
