@@ -1,6 +1,11 @@
 {
   "searchViewState": {
-    "query": "tag:#DOM加载时间线"
+    "query": "",
+    "matchingCase": true,
+    "explainSearch": false,
+    "collapseAll": false,
+    "extraContext": false,
+    "sortOrder": "alphabetical"
   },
   "showFilePath": false
 }
