@@ -8,7 +8,7 @@
   "system_prompts_folder": "smart prompts",
   "smart_chat_folder": "smart-chats",
   "smart_chat_folder_last": "smart-chats",
-  "local_embedding_max_tokens": "4096",
+  "local_embedding_max_tokens": "2048",
   "embedding_file_per_note": false,
   "chat_model_platform_key": "custom_api",
   "open_router": {},
@@ -37,6 +37,6 @@
     "api_key": "sk-oY79nXU41ajyXYYL0b66E589B38a4095A4B9F7D39e7c0fC4",
     "hostname": "cn.gptapi.asia",
     "path": "/v1",
-    "max_input_tokens": 8032
+    "max_input_tokens": 8029
   }
 }

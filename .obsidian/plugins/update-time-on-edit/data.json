@@ -20,13 +20,15 @@
     "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/02-get-function-parameters.md": "32d57017c3831baf0a4bb4e51adc9f95ba34078a3a6c7f20640f7f270ae46f0a",
     "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/03-awaited.md": "1e86e1bb53e03c31227fe1d139d377cdb63cc22d737e9ad5cbcfc7e08cc2d9e7",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/05-terminology.md": "9d1f03b08ccd6a07de316ca839e1ddedd0855a1f7dc2b3095e7be019b37d7902",
-    "courses/课程集合.md": "b474ba4b1775d6181cf6f80f53dc372ddd572f5630c360698dba053446dbc12d",
+    "courses/课程集合.md": "4e5c99cc348442c567ab11f9ea135e40892662512225f25310e8d130e4a9513b",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/06-extract-from-discriminated-union.md": "a7d52a4b9f3103f42fc134f5c7df6e526d5cebc64d376870bca5c953673ae88c",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07-exclude-from-discriminated-union.md": "faafcd039dd701b5082004b29db77f739b474a1d4f74dea30bfbb1049dd46625",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07.5-union-type.md": "f9eea692c677d5948b1ae60e4a9862b61a884cacee75a23f1b40ff2e13f4a576",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/08-indexed-access.md": "7e970120d4aa2d1e9a60b4dc94b6562b9e4256163ec309e2f9948aee31bb0919",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/09-discriminated-union-to-discriminator.md": "fec146849565e286119bc6ef900474c977b7e38cfbc9bdf45daba815289e0a1b",
-    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md": "4c30807d950d18388bb18a6f1bdf8c395f6f5be227c53053d0f889482eed8eea",
-    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/11-indexed-access-with-unions.md": "703beebe71efb73955deff7293206a2a340212af01fa1b9dbb232d2634ea0004"
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md": "ed7a834f09606a0ac85a136061f2a7cf365601d8718c2e61c702795ea64670ef",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/11-indexed-access-with-unions.md": "cb9a97aafc2e29377645758cfb659370e682d37d36c65ac97c3d08ca28b91619",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/12-get-object-values.md": "f964e458206bc7bf1917dcd960b4e4fe26927752f8bbb477bb0d967526636ac3",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/13-get-array-value.md": "d5bdbfdc464b71ce3e6f19971a58301cda5bf7ef65f5dec904aa09c93063666a"
   }
 }

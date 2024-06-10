@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0ecd31a0ba7113bd",
+        "id": "94ca1e4f1f972cbd",
         "type": "tabs",
         "children": [
           {
-            "id": "1c41fd28ce948521",
+            "id": "d3c0768752327e5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md",
+                "file": "courses/课程集合.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md",
+                "file": "courses/课程集合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md",
+                "file": "courses/课程集合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md"
+                "file": "courses/课程集合.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md"
+                "file": "courses/课程集合.md"
               }
             }
           },
@@ -158,21 +158,13 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "9691cc18c0f3b1d6",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,17 +176,20 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "float-search:Search Obsidian In Modal": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "9691cc18c0f3b1d6",
+  "active": "64b09be9c0ae873a",
   "lastOpenFiles": [
+    "courses/total-typescript/00-reference.md",
+    "courses/total-typescript/workshops/配套资源.md",
+    "courses/total-typescript/workshops/01 Type Transformations/00.md",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/13-get-array-value.md",
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/12-get-object-values.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/11-indexed-access-with-unions.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md",
-    "smart-chats",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/09-discriminated-union-to-discriminator.md",
+    "smart-chats",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/08-indexed-access.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07.5-union-type.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/07-exclude-from-discriminated-union.md",
@@ -205,8 +200,6 @@
     "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/02-get-function-parameters.md",
     "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/01-get-function-return-type .md",
     "courses/课程集合.md",
-    "courses/total-typescript/00-reference.md",
-    "courses/total-typescript/workshops/01 Type Transformations/00.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing",
     "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic",
     "00 Index/AMap.md",
@@ -215,7 +208,6 @@
     "00 Index/Untitled 2.md",
     "Untitled",
     "courses/total-typescript/workshops/01 Type Transformations/note.md",
-    "courses/total-typescript/workshops/配套资源.md",
     "courses/total-typescript/workshops/04 Advanced React with TypeScript",
     "courses/total-typescript/workshops/03 Advanced TypeScript Patterns",
     "courses/total-typescript/workshops/02 TypeScript Generics",
@@ -224,8 +216,6 @@
     "templates/ai.md",
     "00 Index/Untitled 1.md",
     "templates/article.md",
-    "articles/30 seconds of code/Radians to degrees.md",
-    "articles/30 seconds of code/Value to safe integer.md",
     "z-obsidian-help",
     "attachment/Pasted image 20240515232825.png",
     "attachment/Pasted image 20240404162408.png",
