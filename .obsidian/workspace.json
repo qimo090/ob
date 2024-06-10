@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b426b05b08c45d5f",
+        "id": "f9ad262ab2e9064c",
         "type": "tabs",
         "children": [
           {
-            "id": "469aa4d950e6c4f0",
+            "id": "0df53411ae6d7668",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.3-multiple.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.3-multiple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.3-multiple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.3-multiple.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.3-multiple.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,7 +169,7 @@
       "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "469aa4d950e6c4f0",
+  "active": "0df53411ae6d7668",
   "lastOpenFiles": [
     "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.3-multiple.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.2-constraints.md",
