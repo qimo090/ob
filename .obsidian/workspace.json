@@ -175,10 +175,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "1c41fd28ce948521",
+  "active": "aa40ae69e2fb0c23",
   "lastOpenFiles": [
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/09-discriminated-union-to-discriminator.md",
