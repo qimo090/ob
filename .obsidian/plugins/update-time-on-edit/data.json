@@ -46,6 +46,10 @@
     "Interview/JavaScript/Js中实现继承的几种方式/index.md": "89a5b2a6e75fadbf07b83c653e1cd26187df7a5a248b7ea965f8532435d40f55",
     "Interview/H5&C3/CSS 中常用的垂直居中解决方案有哪些？/index.md": "15fac9512a7423ca80b2b86538189820cc872184551fb774a6844073ed179e6b",
     "JavaScript/资源提示符/index.md": "be95eb324489b66ed52192fdad89725c869e9be458682ed88db9c88988556152",
-    "JavaScript/JS 加载时间线/index.md": "a12665ecc92d0c3ba96f84235f89d8a47e15e15235eae8c6a7f8a83d6e930e3e"
+    "JavaScript/JS 加载时间线/index.md": "a12665ecc92d0c3ba96f84235f89d8a47e15e15235eae8c6a7f8a83d6e930e3e",
+    "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20-type-helpers-pattern.md": "a147cac692955de328b5612cff87c578e1457d8a91a70cb0df0c4649cd639965",
+    "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.1-maybe.md": "5c06be63bd043971070e577654adeddd367393aa06b7fcfafb29dbaaa0fd5fd8",
+    "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.2-constraints.md": "097f2807937a83775f1372218c8620bae0bb0e39aa91608b558676cfe2542dc0",
+    "courses/total-typescript/workshops/01 Type Transformations/04-type-helpers/20.3-multiple.md": "ae7a4a4264d35450e2347dec4ddcf365ba265396732c38854aba4aa47c6f8247"
   }
 }
