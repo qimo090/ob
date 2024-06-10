@@ -29,6 +29,12 @@
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/10-as-const.md": "ed7a834f09606a0ac85a136061f2a7cf365601d8718c2e61c702795ea64670ef",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/11-indexed-access-with-unions.md": "cb9a97aafc2e29377645758cfb659370e682d37d36c65ac97c3d08ca28b91619",
     "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/12-get-object-values.md": "f964e458206bc7bf1917dcd960b4e4fe26927752f8bbb477bb0d967526636ac3",
-    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/13-get-array-value.md": "d5bdbfdc464b71ce3e6f19971a58301cda5bf7ef65f5dec904aa09c93063666a"
+    "courses/total-typescript/workshops/01 Type Transformations/02-unions-and-indexing/13-get-array-value.md": "d5bdbfdc464b71ce3e6f19971a58301cda5bf7ef65f5dec904aa09c93063666a",
+    "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/14-template-literal-with-string.md": "a99b88bbf902db5334c5709a87330a1913b5540771adf17fda06c06f6e1e3f48",
+    "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/15-extract-with-template-literals.md": "c5b46f1643a6782a4383eb42fc49d0b0576eae13341c3f3ab4ac288868177b4d",
+    "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/16-unions-in-template-literals.md": "5a6befba2151d4cde770e3affdded2f5522233a19d99d4cb1718260e827a8418",
+    "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/17-splitting-strings.md": "80ec4229e38ccccb9e54b1da321eecedf95860451d943d3d0ec019302465a9b0",
+    "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/18-template-literals-in-object-keys.md": "66534ddccecbe42b37ab340be0a7cbb06f879537cd6f57115940430c1a557399",
+    "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/19-uppercase-object.md": "cd03c71605e929e0aa4f2e65317b9dee020bf25f06fcbe974609c2d5a96b2632"
   }
 }
