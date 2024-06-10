@@ -11,8 +11,12 @@
             "id": "4ee4f2eb9bc1d7db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md"
+              }
             }
           },
           {
@@ -138,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md"
+              }
             }
           },
           {
@@ -169,8 +179,15 @@
       "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "aa40ae69e2fb0c23",
+  "active": "4ee4f2eb9bc1d7db",
   "lastOpenFiles": [
+    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.5-function-constraints.md",
+    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.4-defaults.md",
+    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.3-multiple.md",
+    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.2-constraints.md",
+    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20-type-helpers-pattern.md",
+    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.1-maybe.md",
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/21-conditional-types.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.solution.2.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.solution.1.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.problem.ts",
@@ -181,15 +198,8 @@
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/26-get-result-from-async-function.problem.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25.5-regex-types.explainer.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.solution.2.ts",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.solution.1.ts",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.7-non-empty-array.md",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.5-function-constraints.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.4-defaults.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.3-multiple.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.2-constraints.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.1-maybe.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20-type-helpers-pattern.md",
     "courses/total-typescript/workshops/01 Type Transformations/00.md",
     "courses/total-typescript/workshops/01 Type Transformations/Untitled.md",
     "courses/total-typescript/00-reference.md",
