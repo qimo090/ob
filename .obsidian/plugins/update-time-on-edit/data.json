@@ -54,6 +54,11 @@
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.4-defaults.md": "147f15bfd9693e00dc75fa975f99169367a6ba41332e3fca6cc9bd62d9a23786",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.5-function-constraints.md": "7f6c132f89c34ba44d2ba6adfb93d72dff1663ce769390211605352f2e6ca5c6",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md": "e3f4cd4de4a3121417388d8374fa4afcfa158de861711d2bb4257d2f48438090",
-    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.7-non-empty-array.md": "555ed4d6f49aed141bf72e3cdedf0709ef00ecab4e89b6bf7587dbfdd6b27e5d"
+    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.7-non-empty-array.md": "555ed4d6f49aed141bf72e3cdedf0709ef00ecab4e89b6bf7587dbfdd6b27e5d",
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/21-conditional-types.md": "22f31f5b339693ec3ebb6a389346a6dd96928681857068e9fd6ee1024713f0a0",
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/22-returning-never.md": "8e977ca5c747343a6332f68751887dddda7525f1fd3d65719b59d5f0ee6cd420",
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/23-infer-with-raw-values.md": "aa418a8381da0bb749192deebab607d4940da260ebdf3460870c0784f1c30e24",
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/24-infer-with-generics.md": "8c2f24efc41a05676f2381ef45e71b4e04ecd8697d93184b6ee3c5f98cd7ab2b",
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.md": "0591a6ff576442c5eda95f71ef96dca148a3f14a56c0a6429c69a4b25f574f94"
   }
 }

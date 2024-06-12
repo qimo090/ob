@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "25d50f2eb575acdf",
+        "id": "790a2f7b88b5aca9",
         "type": "tabs",
         "children": [
           {
-            "id": "4ee4f2eb9bc1d7db",
+            "id": "b12ac48f088b6704",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md",
-                "mode": "preview",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md"
+                "file": "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md"
+                "file": "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.md"
               }
             }
           },
@@ -179,15 +179,20 @@
       "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "4ee4f2eb9bc1d7db",
+  "active": "b12ac48f088b6704",
   "lastOpenFiles": [
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/24-infer-with-generics.md",
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/23-infer-with-raw-values.md",
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.md",
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/21-conditional-types.md",
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/22-returning-never.md",
+    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.5-function-constraints.md",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.4-defaults.md",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.3-multiple.md",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.2-constraints.md",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20-type-helpers-pattern.md",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.1-maybe.md",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/21-conditional-types.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.solution.2.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.solution.1.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.problem.ts",
@@ -199,7 +204,6 @@
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25.5-regex-types.explainer.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.solution.2.ts",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.7-non-empty-array.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md",
     "courses/total-typescript/workshops/01 Type Transformations/00.md",
     "courses/total-typescript/workshops/01 Type Transformations/Untitled.md",
     "courses/total-typescript/00-reference.md",
@@ -213,10 +217,6 @@
     "Interview/React/React中常用的高阶组件有哪些？/index.md",
     "Interview/H5&C3/什么是 BFC ？/index.md",
     "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/19-uppercase-object.md",
-    "bookstore/Head First设计模式（第二版）/gpt/StrategyPattern 策略模式.md",
-    "Interview/React/介绍一下 React Fiber/index.md",
-    "z-obsidian-help/Callouts 标注.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03-template-literals/18-template-literals-in-object-keys.md",
     "attachment/Pasted image 20240515232825.png",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",
