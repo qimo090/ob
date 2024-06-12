@@ -1,6 +1,11 @@
 ---
 created: 2024-06-12T22:49
-updated: 2024-06-12T22:53
+updated: 2024-06-12T22:59
+tags:
+  - TypeScript
+  - TypeScript/Infer
+  - TypeScript/TemplateLiteral
+url: https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#inferring-within-conditional-types
 ---
 # Problem
 

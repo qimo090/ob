@@ -59,6 +59,7 @@
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/22-returning-never.md": "8e977ca5c747343a6332f68751887dddda7525f1fd3d65719b59d5f0ee6cd420",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/23-infer-with-raw-values.md": "aa418a8381da0bb749192deebab607d4940da260ebdf3460870c0784f1c30e24",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/24-infer-with-generics.md": "8c2f24efc41a05676f2381ef45e71b4e04ecd8697d93184b6ee3c5f98cd7ab2b",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.md": "0591a6ff576442c5eda95f71ef96dca148a3f14a56c0a6429c69a4b25f574f94"
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.md": "48de0c1c54b53a6fcdb05484cc85b32b3eb9ae79a3b8799e533cc14e6656df1e",
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/26-get-result-from-async-function.problem.ts.md": "df718d8423d8b9043b0f66d6d57200057398850dbce71dbdf383c0916efefa97"
   }
 }
