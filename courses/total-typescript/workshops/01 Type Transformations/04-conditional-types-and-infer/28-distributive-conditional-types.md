@@ -1,6 +1,11 @@
 ---
+tags:
+  - TypeScript
+  - TypeScript/Infer
+  - TypeScript/DistributiveConditionalTypes
+url: https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#distributive-conditional-types
 created: 2024-06-12T23:14
-updated: 2024-06-12T23:20
+updated: 2024-06-12T23:21
 ---
 # Problem
 

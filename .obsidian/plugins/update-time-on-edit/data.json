@@ -62,6 +62,6 @@
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.md": "48de0c1c54b53a6fcdb05484cc85b32b3eb9ae79a3b8799e533cc14e6656df1e",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/26-get-result-from-async-function.problem.ts.md": "dbe8c8e72f7ed0dc4a60e48fdfef4e2cc23233ccb56be75e1373dda62b462017",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/27-infer-in-union-types.md": "9ec71f8d37fd5fe2cec39f7d85bdfe5826d1fc0ebe704be3d9564cc3b0c7996b",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.md": "1fafe0d8df72d39b3e494e9d76306406c199580d9ed7ca25423433e2c2344c04"
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.md": "936e08445b0631759a82df5b5a1fe219c1b3993f6818844dc8e82153dcf44712"
   }
 }
