@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/26-get-result-from-async-function.problem.ts.md",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/26-get-result-from-async-function.problem.ts.md",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/26-get-result-from-async-function.problem.ts.md",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/26-get-result-from-async-function.problem.ts.md"
+                "file": "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/26-get-result-from-async-function.problem.ts.md"
+                "file": "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.md"
               }
             }
           },
@@ -181,8 +181,10 @@
   },
   "active": "b12ac48f088b6704",
   "lastOpenFiles": [
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.md",
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/27-infer-in-union-types.md",
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/26-get-result-from-async-function.problem.ts.md",
+    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/24-infer-with-generics.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/23-infer-with-raw-values.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/21-conditional-types.md",
@@ -215,8 +217,6 @@
     "articles/30 seconds of code/【X】使用 Proxy 来实现 Observable 设计模式.md",
     "articles/30 seconds of code/Value to safe integer.md",
     "articles/30 seconds of code/根据某个 key 组合 2 个 JavaScript 对象数组.md",
-    "Interview/React/React中常用的高阶组件有哪些？/index.md",
-    "Interview/H5&C3/什么是 BFC ？/index.md",
     "attachment/Pasted image 20240515232825.png",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",
