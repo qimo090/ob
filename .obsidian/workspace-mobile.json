@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/01-get-function-return-type .md",
                 "mode": "preview",
                 "source": false
               }
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md",
+            "file": "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/01-get-function-return-type .md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md",
+            "file": "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/01-get-function-return-type .md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "courses/total-typescript/workshops/01 Type Transformations/01-get-function-return-type .md"
+            "file": "courses/total-typescript/workshops/01 Type Transformations/01-inference-basic/01-get-function-return-type .md"
           }
         }
       }
@@ -147,6 +147,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "float-search:Search Obsidian In Modal": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
