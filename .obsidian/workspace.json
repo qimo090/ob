@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f10f1866321d5fb8",
+        "id": "55c1c1850d7bb2ef",
         "type": "tabs",
         "children": [
           {
-            "id": "09c54fb80f21790c",
+            "id": "44d1ca6b4a45a70a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md"
+              }
             }
           },
           {
@@ -138,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md"
+              }
             }
           },
           {
@@ -169,8 +179,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa40ae69e2fb0c23",
+  "active": "44d1ca6b4a45a70a",
   "lastOpenFiles": [
+    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/31-k-in-keyof-as.md",
+    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md",
+    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/30-k-in-keyof.md",
+    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/29-union-to-object.md",
+    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/Untitled",
+    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/27-infer-in-union-types.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/26-get-result-from-async-function.problem.ts.md",
@@ -194,8 +210,6 @@
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/27-infer-in-union-types.problem.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/26-get-result-from-async-function.solution.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/26-get-result-from-async-function.problem.ts",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25.5-regex-types.explainer.ts",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.solution.2.ts",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.7-non-empty-array.md",
     "courses/total-typescript/workshops/01 Type Transformations/00.md",
     "courses/total-typescript/workshops/01 Type Transformations/Untitled.md",
@@ -203,10 +217,6 @@
     "JavaScript/JS 加载时间线/index.md",
     "JavaScript/资源提示符/index.md",
     "Interview/H5&C3/CSS 中常用的垂直居中解决方案有哪些？/index.md",
-    "Interview/JavaScript/Js中实现继承的几种方式/index.md",
-    "articles/30 seconds of code/【X】使用 Proxy 来实现 Observable 设计模式.md",
-    "articles/30 seconds of code/Value to safe integer.md",
-    "articles/30 seconds of code/根据某个 key 组合 2 个 JavaScript 对象数组.md",
     "attachment/Pasted image 20240515232825.png",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",
