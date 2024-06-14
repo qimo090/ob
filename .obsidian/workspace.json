@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d84b2698820a82f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +190,7 @@
       "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "b12ac48f088b6704",
+  "active": "d84b2698820a82f7",
   "lastOpenFiles": [
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/27-infer-in-union-types.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.md",
