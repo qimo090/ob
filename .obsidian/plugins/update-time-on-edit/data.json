@@ -66,6 +66,7 @@
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/29-union-to-object.md": "69c4a245dd5d216496d605cf44c1b5611e12626e664651fdce58a158e6832183",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/30-k-in-keyof.md": "2e82737eaeedf34350c92663ff0a591505563ac11e665c61d47f70436ba65a6e",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/31-k-in-keyof-as.md": "ff9cf4d22e011da07fdc859d9dd43c2f32fcdc05e33278e3205878d3d6338e28",
-    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md": "acf70ba55468cc9d2a003d66e20a39f86f96ce4a38639ae0ab75a38aac67ecd7"
+    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md": "acf70ba55468cc9d2a003d66e20a39f86f96ce4a38639ae0ab75a38aac67ecd7",
+    "personal/app/license.md": "5a7aadaeee954adf8d0ec7c9b97afd2de30314886dd53520c510aac3ac16c515"
   }
 }
