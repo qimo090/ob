@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md",
-                "mode": "preview",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md",
+                "file": "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md"
+                "file": "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md"
+                "file": "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,8 +181,15 @@
   },
   "active": "02bdd76c07452a2b",
   "lastOpenFiles": [
-    "personal/app/license.md",
+    "attachment/37-get-dynamic-path-params.problem.ts",
+    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/36-discriminated-union-to-union.md",
+    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md",
+    "courses/total-typescript/workshops/01 Type Transformations/06-challenges",
+    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/35-object-to-union-of-template-literals.md",
+    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/34-object-to-union-of-tuples.md",
+    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/33-discriminated-union-to-object.md",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md",
+    "personal/app/license.md",
     "personal/app",
     "personal",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/31-k-in-keyof-as.md",
@@ -210,13 +217,6 @@
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.problem.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/27-infer-in-union-types.solution.2.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/27-infer-in-union-types.solution.1.ts",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/27-infer-in-union-types.problem.ts",
-    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.7-non-empty-array.md",
-    "courses/total-typescript/workshops/01 Type Transformations/00.md",
-    "courses/total-typescript/workshops/01 Type Transformations/Untitled.md",
-    "courses/total-typescript/00-reference.md",
-    "JavaScript/JS 加载时间线/index.md",
-    "JavaScript/资源提示符/index.md",
     "attachment/Pasted image 20240515232825.png",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",
