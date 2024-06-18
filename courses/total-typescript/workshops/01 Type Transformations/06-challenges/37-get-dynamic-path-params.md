@@ -1,6 +1,6 @@
 ---
 created: 2024-06-19T00:01
-updated: 2024-06-19T00:02
+updated: 2024-06-19T00:04
 ---
 # Problem
 
@@ -26,5 +26,5 @@ type tests = [
 
 # Solution
 
-```ts fold
+```ts file:37-get-dynamic-path-params.solution.ts fold
 ```

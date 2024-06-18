@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c12d0efd9d68db96",
+        "id": "becc78122ac21977",
         "type": "tabs",
         "children": [
           {
-            "id": "02bdd76c07452a2b",
+            "id": "e625f5d859d3c6dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,11 +169,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02bdd76c07452a2b",
+  "active": "e625f5d859d3c6dd",
   "lastOpenFiles": [
+    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md",
+    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/38-mutually-exclusive-properties.md",
+    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/39-discriminated-union-with-unique-values-to-object.md",
+    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/40-deep-partial.md",
     "attachment/37-get-dynamic-path-params.problem.ts",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/36-discriminated-union-to-union.md",
-    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/35-object-to-union-of-template-literals.md",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/34-object-to-union-of-tuples.md",
@@ -210,13 +203,10 @@
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.4-defaults.md",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.3-multiple.md",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.2-constraints.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20-type-helpers-pattern.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.1-maybe.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.solution.2.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.solution.1.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.problem.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/27-infer-in-union-types.solution.2.ts",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/27-infer-in-union-types.solution.1.ts",
     "attachment/Pasted image 20240515232825.png",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",
