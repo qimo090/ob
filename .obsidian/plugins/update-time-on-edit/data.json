@@ -68,7 +68,7 @@
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/31-k-in-keyof-as.md": "ff9cf4d22e011da07fdc859d9dd43c2f32fcdc05e33278e3205878d3d6338e28",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md": "4a4d232a053e7c1b44dd9e59ba29964978a51caccdfbb28114187e14abffad35",
     "personal/app/license.md": "5a7aadaeee954adf8d0ec7c9b97afd2de30314886dd53520c510aac3ac16c515",
-    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/33-discriminated-union-to-object.md": "c31c993a8d89e7562b78a9e9388b5cc8365a288f46283e82ddaa2e2296eb6838",
+    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/33-discriminated-union-to-object.md": "99b287dc3e7f95c7c3ce84a67683977c8b7c044b975e83678616de91e8a32793",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/34-object-to-union-of-tuples.md": "9c4a97ba21f6e6f137d7cb361b4f96972a87f3ddf4094b1dc7885badfe384838",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/35-object-to-union-of-template-literals.md": "2cdd4ee7393840ad386a622ddf1e7424a3e27f2477f9ba02ae542b89426203aa",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/36-discriminated-union-to-union.md": "9db85c6ca0b1d64fcfff3817eca7a46c1cf2403def6c4c07e36657290a8f1ff9",
