@@ -75,6 +75,7 @@
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md": "bc99b891b84d02b541ee203c95899c4741fa43f11ae3d7107dad5f9b823256b3",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/38-mutually-exclusive-properties.md": "3cca425f33c5c66fcdba71615ffb8169624e6957d80c4df7a9d4878cc76527a5",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/39-discriminated-union-with-unique-values-to-object.md": "6347e3d9dee36b1f1215997a2391149dc4453dbd008e29562e8e4bc987611f99",
-    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/40-deep-partial.md": "f08f2fdc6fa40a13755c91f7af8ba072edb060e0166c10e3da0974f1dc1c524f"
+    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/40-deep-partial.md": "f08f2fdc6fa40a13755c91f7af8ba072edb060e0166c10e3da0974f1dc1c524f",
+    "macos/终端环境 iTerm2 + oh-my-zsh.md": "b41115db403398c378b67c0562ca1a24bc853285ad08164a1334712c93eece85"
   }
 }

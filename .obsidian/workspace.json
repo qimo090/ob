@@ -11,8 +11,12 @@
             "id": "e625f5d859d3c6dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "macos/终端环境 iTerm2 + oh-my-zsh.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "macos/终端环境 iTerm2 + oh-my-zsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "macos/终端环境 iTerm2 + oh-my-zsh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "macos/终端环境 iTerm2 + oh-my-zsh.md"
+              }
             }
           },
           {
@@ -138,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "macos/终端环境 iTerm2 + oh-my-zsh.md"
+              }
             }
           },
           {
@@ -171,6 +181,9 @@
   },
   "active": "e625f5d859d3c6dd",
   "lastOpenFiles": [
+    "macos/nvm 安装.md",
+    "macos/终端环境 iTerm2 + oh-my-zsh.md",
+    "macos/zsh 主题.md",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/38-mutually-exclusive-properties.md",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/39-discriminated-union-with-unique-values-to-object.md",
@@ -200,9 +213,6 @@
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/22-returning-never.md",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md",
     "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.5-function-constraints.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.4-defaults.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.3-multiple.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.2-constraints.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.solution.2.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.solution.1.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.problem.ts",
