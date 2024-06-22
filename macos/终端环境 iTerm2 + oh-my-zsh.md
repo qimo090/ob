@@ -1,11 +1,8 @@
 ---
 created: 2024-06-21T22:43
-updated: 2024-06-21T23:21
+updated: 2024-06-22T11:27
 url: https://www.poloxue.com/posts/2023-10-16-zsh-themes-and-plugins
 ---
-
-原文链接：[https://www.poloxue.com/posts/2023-10-16-zsh-themes-and-plugins](https://www.poloxue.com/posts/2023-10-16-zsh-themes-and-plugins)
-
 ## 为什么使用 zsh ？
 
 Zsh，全称Z Shell，是一种功能强大的UNIX shell（命令行解释器），也是一种脚本语言。Zsh是Bourne Shell（sh）的扩展，结合了Bourne Shell、Korn Shell（ksh）和C Shell（csh）的功能，并增加了许多独特的特性。
