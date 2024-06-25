@@ -72,10 +72,10 @@
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/34-object-to-union-of-tuples.md": "9c4a97ba21f6e6f137d7cb361b4f96972a87f3ddf4094b1dc7885badfe384838",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/35-object-to-union-of-template-literals.md": "2cdd4ee7393840ad386a622ddf1e7424a3e27f2477f9ba02ae542b89426203aa",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/36-discriminated-union-to-union.md": "9db85c6ca0b1d64fcfff3817eca7a46c1cf2403def6c4c07e36657290a8f1ff9",
-    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md": "bc99b891b84d02b541ee203c95899c4741fa43f11ae3d7107dad5f9b823256b3",
+    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md": "15d27a397778c836a0ac6bffa7fe4c2e7c8545b3af972d228e2f7642874d388e",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/38-mutually-exclusive-properties.md": "3cca425f33c5c66fcdba71615ffb8169624e6957d80c4df7a9d4878cc76527a5",
-    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/39-discriminated-union-with-unique-values-to-object.md": "6347e3d9dee36b1f1215997a2391149dc4453dbd008e29562e8e4bc987611f99",
-    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/40-deep-partial.md": "f08f2fdc6fa40a13755c91f7af8ba072edb060e0166c10e3da0974f1dc1c524f",
+    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/39-discriminated-union-with-unique-values-to-object.md": "7cf950bb87436086e411b12aa00815bd5e3a53441dbae8837b25ea2e1ea0664c",
+    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/40-deep-partial.md": "4342fa86a6540a8148b9a9d232d5a4f7bde4c7bc5375633a121a71c9e1e35789",
     "macos/终端环境 iTerm2 + oh-my-zsh.md": "34e388dfb523acdf7e9bcbe2e895bf0febd058d713eab4883be974a41a6db248"
   }
 }

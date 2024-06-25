@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "becc78122ac21977",
+        "id": "0e40eeb49a2feb9c",
         "type": "tabs",
         "children": [
           {
-            "id": "e625f5d859d3c6dd",
+            "id": "9cf3b7771e0b8a4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "macos/终端环境 iTerm2 + oh-my-zsh.md",
+                "file": "courses/total-typescript/00-reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macos/终端环境 iTerm2 + oh-my-zsh.md",
+                "file": "courses/total-typescript/00-reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "macos/终端环境 iTerm2 + oh-my-zsh.md",
+                "file": "courses/total-typescript/00-reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "macos/终端环境 iTerm2 + oh-my-zsh.md"
+                "file": "courses/total-typescript/00-reference.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "macos/终端环境 iTerm2 + oh-my-zsh.md"
+                "file": "courses/total-typescript/00-reference.md"
               }
             }
           },
@@ -179,16 +179,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e625f5d859d3c6dd",
+  "active": "9cf3b7771e0b8a4a",
   "lastOpenFiles": [
+    "courses/total-typescript/workshops/配套资源.md",
+    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/40-deep-partial.md",
+    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/39-discriminated-union-with-unique-values-to-object.md",
+    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/38-mutually-exclusive-properties.md",
+    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md",
+    "macos/终端环境 iTerm2 + oh-my-zsh.md",
     "macos/nvm 安装.md",
     "macos/zsh 主题.md",
     "macos/zsh.md",
-    "macos/终端环境 iTerm2 + oh-my-zsh.md",
-    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md",
-    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/38-mutually-exclusive-properties.md",
-    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/39-discriminated-union-with-unique-values-to-object.md",
-    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/40-deep-partial.md",
     "attachment/37-get-dynamic-path-params.problem.ts",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/36-discriminated-union-to-union.md",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges",
@@ -212,7 +213,6 @@
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/23-infer-with-raw-values.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/21-conditional-types.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/22-returning-never.md",
-    "courses/total-typescript/workshops/01 Type Transformations/03.5-type-helpers/20.6-not-undefined-or-null-constraint.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.solution.2.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.solution.1.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.problem.ts",
