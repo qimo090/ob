@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0e40eeb49a2feb9c",
+        "id": "0c9c9637a9c13410",
         "type": "tabs",
         "children": [
           {
-            "id": "9cf3b7771e0b8a4a",
+            "id": "124065acac79ec36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/total-typescript/00-reference.md",
-                "mode": "source",
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/total-typescript/00-reference.md",
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/total-typescript/00-reference.md",
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/total-typescript/00-reference.md"
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "courses/total-typescript/00-reference.md"
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md"
               }
             }
           },
@@ -179,8 +179,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cf3b7771e0b8a4a",
+  "active": "124065acac79ec36",
   "lastOpenFiles": [
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04-multiple-generics-per-object.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/03-multiple-generics.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/02-generic-constraints.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/01-return-what-i-pass-in.md",
+    "courses/total-typescript/00-reference.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro",
     "courses/total-typescript/workshops/配套资源.md",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/40-deep-partial.md",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/39-discriminated-union-with-unique-values-to-object.md",
@@ -207,16 +214,9 @@
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/27-infer-in-union-types.md",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/26-get-result-from-async-function.problem.ts.md",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/25-template-literal-value-extraction.md",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/24-infer-with-generics.md",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/23-infer-with-raw-values.md",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/21-conditional-types.md",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/22-returning-never.md",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.solution.2.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.solution.1.ts",
     "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.problem.ts",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/27-infer-in-union-types.solution.2.ts",
     "attachment/Pasted image 20240515232825.png",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",

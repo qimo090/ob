@@ -76,6 +76,11 @@
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/38-mutually-exclusive-properties.md": "3cca425f33c5c66fcdba71615ffb8169624e6957d80c4df7a9d4878cc76527a5",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/39-discriminated-union-with-unique-values-to-object.md": "7cf950bb87436086e411b12aa00815bd5e3a53441dbae8837b25ea2e1ea0664c",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/40-deep-partial.md": "4342fa86a6540a8148b9a9d232d5a4f7bde4c7bc5375633a121a71c9e1e35789",
-    "macos/终端环境 iTerm2 + oh-my-zsh.md": "34e388dfb523acdf7e9bcbe2e895bf0febd058d713eab4883be974a41a6db248"
+    "macos/终端环境 iTerm2 + oh-my-zsh.md": "34e388dfb523acdf7e9bcbe2e895bf0febd058d713eab4883be974a41a6db248",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/01-return-what-i-pass-in.md": "3b5f4b1b94ce7ffdf425717164997fc7ff138fdd405adac31dc2575f084ddc2f",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/02-generic-constraints.md": "24dbe9b0a60f9b51f761aaca395a37390811ed9d5216e7af8d63146adcfd7c7d",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/03-multiple-generics.md": "d20e8de8490013e4b34759482cbbfd579c8bc6338f133a1e130a244d41373111",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04-multiple-generics-per-object.md": "5569a891173992fabd8352d805f657ab3fa981cd9e6bd8cf1aebd6f8c0028d4c",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md": "bf6d948241c824cc199bd743947f17b0959fa1682ebb4db5ba883c114ef62719"
   }
 }
