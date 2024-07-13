@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "02fd9bc331662834",
+        "id": "eb6f86342a68f1c9",
         "type": "tabs",
         "children": [
           {
-            "id": "23f9646016503b5a",
+            "id": "17f5a6b84a5ccf33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md"
+              }
             }
           },
           {
@@ -138,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md"
+              }
             }
           },
           {
@@ -169,7 +179,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23f9646016503b5a",
+  "active": "17f5a6b84a5ccf33",
   "lastOpenFiles": [
     "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md",
     "Excalidraw/Drawing 2024-07-10 22.30.00.excalidraw.md",
