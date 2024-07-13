@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0a577927d4a37db5",
+        "id": "2ff06efa5e9bb4b8",
         "type": "tabs",
         "children": [
           {
-            "id": "4b78d430d5d08fa4",
+            "id": "3f5228c51bd624bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md",
-                "mode": "preview",
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 341.5
   },
   "right": {
     "id": "a7efe540d3c49ad6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md",
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md",
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md"
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md"
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md"
               }
             }
           },
@@ -179,10 +179,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b78d430d5d08fa4",
+  "active": "3f5228c51bd624bc",
   "lastOpenFiles": [
-    "README.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06-generic-mapper.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/05-generics-in-classes.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04-multiple-generics-per-object.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/03-multiple-generics.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/02-generic-constraints.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/01-return-what-i-pass-in.md",
     "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md",
+    "README.md",
     "Excalidraw/Drawing 2024-07-10 22.30.00.excalidraw.md",
     "macos/重置通过命令行设置的代理.md",
     "macos/attachment/iTerm2 2024-07-09 22.38.24.png",
@@ -207,11 +215,6 @@
     "attachment/Pasted image 20240404161459.png",
     "attachment/Pasted image 20240404161432.png",
     "courses/total-typescript/00-reference.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04-multiple-generics-per-object.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/03-multiple-generics.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/02-generic-constraints.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/01-return-what-i-pass-in.md",
     "courses/total-typescript/workshops/配套资源.md",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/40-deep-partial.md",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/39-discriminated-union-with-unique-values-to-object.md",
@@ -220,9 +223,6 @@
     "macos/终端环境 iTerm2 + oh-my-zsh.md",
     "macos/nvm 安装.md",
     "macos/zsh 主题.md",
-    "macos/zsh.md",
-    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/36-discriminated-union-to-union.md",
-    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/35-object-to-union-of-template-literals.md",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",
     "attachment/Pasted image 20240404161537.png",

@@ -88,6 +88,9 @@
     "courses/程序设计入门--C语言/workshops/week-01 程序设计与C语言/03 第一个程序/00.md": "489b17552bad8471420850b9d0e56b72ac33a9e14baae010a1cf7f03084f23f9",
     "courses/程序设计进阶--C语言/reference.md": "6e9013bb4646e24ecf1576dcbc445d45ba0acd37ff1aad17accfac44ab97b424",
     "macos/重置通过命令行设置的代理.md": "01c827aab28b02116c5cee407ea297934c70ef55acb3d4f793b82c134d8e4c17",
-    "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md": "bdde7950d13603fc625323c2334f692926741cc3886dde2e0fa00c9bcd63ac58"
+    "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md": "bdde7950d13603fc625323c2334f692926741cc3886dde2e0fa00c9bcd63ac58",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/05-generics-in-classes.md": "ead5dc935040369dff24811a9e99533c2d009d77904a9dadf4041e085c502e76",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06-generic-mapper.md": "7656ed57b08403bb2643e2e65ad890f81fa8fbff60297b49679510224d058fe8",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md": "155d9ddf83f004cfbfacfdb0dd0e1478b71585d03041a1d537f763eea5cb57c5"
   }
 }
