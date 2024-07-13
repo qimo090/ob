@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0c9c9637a9c13410",
+        "id": "02fd9bc331662834",
         "type": "tabs",
         "children": [
           {
-            "id": "124065acac79ec36",
+            "id": "23f9646016503b5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,15 +169,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "124065acac79ec36",
+  "active": "23f9646016503b5a",
   "lastOpenFiles": [
-    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04-multiple-generics-per-object.md",
+    "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md",
+    "Excalidraw/Drawing 2024-07-10 22.30.00.excalidraw.md",
+    "macos/重置通过命令行设置的代理.md",
+    "macos/attachment/iTerm2 2024-07-09 22.38.24.png",
+    "macos/attachment",
+    "courses/程序设计入门--C语言/reference.md",
+    "courses/程序设计进阶--C语言/reference.md",
+    "courses/程序设计入门--C语言/workshops/week-01 程序设计与C语言/03 第一个程序/00.md",
+    "courses/程序设计进阶--C语言/workshops",
+    "courses/程序设计进阶--C语言",
+    "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/04 字符串计算",
+    "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/03 字符串",
+    "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/02 字符类型",
+    "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/01 指针",
+    "courses/程序设计入门--C语言/workshops/week-07 数组运算/03 排序初步",
+    "courses/程序设计入门--C语言/workshops/week-07 数组运算/02 搜索",
+    "courses/程序设计入门--C语言/workshops/week-07 数组运算/01 数组运算",
+    "courses/程序设计入门--C语言/workshops/week-01 程序设计与C语言/02 C语言/00.md",
+    "courses/程序设计入门--C语言/workshops/week-01 程序设计与C语言/01 计算机与编程语言/00.md",
+    "attachment/Pasted image 20240515232825.png",
+    "attachment/Pasted image 20240404161828.png",
+    "attachment/Pasted image 20240404161527.png",
+    "attachment/Pasted image 20240404161459.png",
+    "attachment/Pasted image 20240404161432.png",
+    "courses/total-typescript/00-reference.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04-multiple-generics-per-object.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/03-multiple-generics.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/02-generic-constraints.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/01-return-what-i-pass-in.md",
-    "courses/total-typescript/00-reference.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro",
     "courses/total-typescript/workshops/配套资源.md",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/40-deep-partial.md",
     "courses/total-typescript/workshops/01 Type Transformations/06-challenges/39-discriminated-union-with-unique-values-to-object.md",
@@ -197,36 +210,13 @@
     "macos/nvm 安装.md",
     "macos/zsh 主题.md",
     "macos/zsh.md",
-    "attachment/37-get-dynamic-path-params.problem.ts",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/36-discriminated-union-to-union.md",
-    "courses/total-typescript/workshops/01 Type Transformations/06-challenges",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/35-object-to-union-of-template-literals.md",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/34-object-to-union-of-tuples.md",
-    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/33-discriminated-union-to-object.md",
-    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md",
-    "personal/app/license.md",
-    "personal/app",
-    "personal",
-    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/31-k-in-keyof-as.md",
-    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/30-k-in-keyof.md",
-    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/29-union-to-object.md",
-    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/Untitled",
-    "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.md",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/27-infer-in-union-types.md",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.solution.2.ts",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.solution.1.ts",
-    "courses/total-typescript/workshops/01 Type Transformations/04-conditional-types-and-infer/28-distributive-conditional-types.problem.ts",
-    "attachment/Pasted image 20240515232825.png",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",
-    "attachment/Pasted image 20240404161828.png",
     "attachment/Pasted image 20240404161537.png",
-    "attachment/Pasted image 20240404161527.png",
     "attachment/Pasted image 20240404161511.png",
-    "attachment/Pasted image 20240404161459.png",
-    "attachment/Pasted image 20240404161432.png",
-    "bookstore/hello-algo/chapters/Pasted image 20240404161412.png",
     "Untitled.canvas",
     "Interview/JavaScript/请介绍一下Js中的单线程和事件循环/JS 的单线程.canvas"
   ]

@@ -81,6 +81,13 @@
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/02-generic-constraints.md": "24dbe9b0a60f9b51f761aaca395a37390811ed9d5216e7af8d63146adcfd7c7d",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/03-multiple-generics.md": "d20e8de8490013e4b34759482cbbfd579c8bc6338f133a1e130a244d41373111",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04-multiple-generics-per-object.md": "5569a891173992fabd8352d805f657ab3fa981cd9e6bd8cf1aebd6f8c0028d4c",
-    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md": "bf6d948241c824cc199bd743947f17b0959fa1682ebb4db5ba883c114ef62719"
+    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md": "bf6d948241c824cc199bd743947f17b0959fa1682ebb4db5ba883c114ef62719",
+    "courses/程序设计入门--C语言/reference.md": "0320cab29d16e0de9baf98cf32459d05a2c4053e7a6c2b4f8d69fdaead5f22b9",
+    "courses/程序设计入门--C语言/workshops/week-01 程序设计与C语言/01 计算机与编程语言/00.md": "13b74f34765d0109868de18fe15202eaf14b444cf868d1f5dd6ae1d2dc27a641",
+    "courses/程序设计入门--C语言/workshops/week-01 程序设计与C语言/02 C语言/00.md": "8cc5cd8777f4dafb0b6d0095f6c57226faf74009add192684bc3304efbfb78fa",
+    "courses/程序设计入门--C语言/workshops/week-01 程序设计与C语言/03 第一个程序/00.md": "489b17552bad8471420850b9d0e56b72ac33a9e14baae010a1cf7f03084f23f9",
+    "courses/程序设计进阶--C语言/reference.md": "6e9013bb4646e24ecf1576dcbc445d45ba0acd37ff1aad17accfac44ab97b424",
+    "macos/重置通过命令行设置的代理.md": "01c827aab28b02116c5cee407ea297934c70ef55acb3d4f793b82c134d8e4c17",
+    "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md": "bdde7950d13603fc625323c2334f692926741cc3886dde2e0fa00c9bcd63ac58"
   }
 }

@@ -28,6 +28,7 @@
     "update time": "datetime",
     "created": "datetime",
     "excalidraw-embeddable-theme": "text",
-    "updated": "datetime"
+    "updated": "datetime",
+    "university": "text"
   }
 }
