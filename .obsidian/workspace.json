@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2ff06efa5e9bb4b8",
+        "id": "55c75713a5d0a87c",
         "type": "tabs",
         "children": [
           {
-            "id": "3f5228c51bd624bc",
+            "id": "228370850fd45285",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,9 +169,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f5228c51bd624bc",
+  "active": "228370850fd45285",
   "lastOpenFiles": [
+    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/11.1-passing-type-arguments-in-cal.com.explainer.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/11.2-mark-erikson-story.explainer.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/11-data-fetcher.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/10-reduce.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/09-generics-in-type-arguments-in-arguments.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/08-default-generics.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06-generic-mapper.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/05-generics-in-classes.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04-multiple-generics-per-object.md",
@@ -206,7 +204,6 @@
     "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/01 指针",
     "courses/程序设计入门--C语言/workshops/week-07 数组运算/03 排序初步",
     "courses/程序设计入门--C语言/workshops/week-07 数组运算/02 搜索",
-    "courses/程序设计入门--C语言/workshops/week-07 数组运算/01 数组运算",
     "courses/程序设计入门--C语言/workshops/week-01 程序设计与C语言/02 C语言/00.md",
     "courses/程序设计入门--C语言/workshops/week-01 程序设计与C语言/01 计算机与编程语言/00.md",
     "attachment/Pasted image 20240515232825.png",
@@ -216,13 +213,6 @@
     "attachment/Pasted image 20240404161432.png",
     "courses/total-typescript/00-reference.md",
     "courses/total-typescript/workshops/配套资源.md",
-    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/40-deep-partial.md",
-    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/39-discriminated-union-with-unique-values-to-object.md",
-    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/38-mutually-exclusive-properties.md",
-    "courses/total-typescript/workshops/01 Type Transformations/06-challenges/37-get-dynamic-path-params.md",
-    "macos/终端环境 iTerm2 + oh-my-zsh.md",
-    "macos/nvm 安装.md",
-    "macos/zsh 主题.md",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",
     "attachment/Pasted image 20240404161537.png",
