@@ -92,6 +92,11 @@
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/05-generics-in-classes.md": "ead5dc935040369dff24811a9e99533c2d009d77904a9dadf4041e085c502e76",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06-generic-mapper.md": "7656ed57b08403bb2643e2e65ad890f81fa8fbff60297b49679510224d058fe8",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md": "155d9ddf83f004cfbfacfdb0dd0e1478b71585d03041a1d537f763eea5cb57c5",
-    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md": "cce49184ad47ec3d98ef5b37df856c6a238a50bb140895d1298ab3b7d63ca4bb"
+    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md": "284ba1f65ccd3e5a2f640e295cf9c5dcb7c4da0831e8f504918f7960e32af92e",
+    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/08-default-generics.md": "360948ed946abe05efdd849911bc3ca72bc51c1f6c7168343c40af99250ff442",
+    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/09-generics-in-type-arguments-in-arguments.md": "10a42ed85d24af89ef0558afb34fd886d79afdd4494c9df59668590b8c3bfad3",
+    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/10-reduce.md": "1f41e1621253fc4dee6ea7c8a848c7cb537a7a87ce13cc05cc222ae7f0119b7f",
+    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/11-data-fetcher.md": "71a850452f7987aec0a6976c916852ffe3630f8c708a3bd5192c14e3a74954d2",
+    "courses/total-typescript/workshops/02 TypeScript Generics/00.md": "dcd5f3a405ccba91c7bac554d53ca155eda411320d5e06a28661b9f4a7fffe48"
   }
 }

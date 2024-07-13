@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "55c75713a5d0a87c",
+        "id": "ac0f4dc0cbab384f",
         "type": "tabs",
         "children": [
           {
-            "id": "228370850fd45285",
+            "id": "d8745b528c47103b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md",
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/00.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 332.5,
+    "collapsed": true
   },
   "right": {
     "id": "a7efe540d3c49ad6",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md",
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md",
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/00.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md"
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/00.md"
               }
             }
           },
@@ -147,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md"
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/00.md"
               }
             }
           },
@@ -180,15 +181,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "228370850fd45285",
+  "active": "d8745b528c47103b",
   "lastOpenFiles": [
+    "courses/total-typescript/workshops/01 Type Transformations/00.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/00.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments",
+    "courses/total-typescript/00-reference.md",
+    "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md",
+    "Excalidraw/Drawing 2024-07-10 22.30.00.excalidraw.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/11.1-passing-type-arguments-in-cal.com.explainer.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/11.2-mark-erikson-story.explainer.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/11-data-fetcher.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/10-reduce.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/09-generics-in-type-arguments-in-arguments.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/08-default-generics.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md",
+    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/11.2-mark-erikson-story.explainer.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06-generic-mapper.md",
@@ -198,9 +205,7 @@
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/03-multiple-generics.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/02-generic-constraints.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/01-return-what-i-pass-in.md",
-    "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md",
     "README.md",
-    "Excalidraw/Drawing 2024-07-10 22.30.00.excalidraw.md",
     "macos/重置通过命令行设置的代理.md",
     "macos/attachment/iTerm2 2024-07-09 22.38.24.png",
     "macos/attachment",
@@ -214,16 +219,12 @@
     "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/02 字符类型",
     "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/01 指针",
     "courses/程序设计入门--C语言/workshops/week-07 数组运算/03 排序初步",
-    "courses/程序设计入门--C语言/workshops/week-07 数组运算/02 搜索",
     "courses/程序设计入门--C语言/workshops/week-01 程序设计与C语言/02 C语言/00.md",
-    "courses/程序设计入门--C语言/workshops/week-01 程序设计与C语言/01 计算机与编程语言/00.md",
     "attachment/Pasted image 20240515232825.png",
     "attachment/Pasted image 20240404161828.png",
     "attachment/Pasted image 20240404161527.png",
     "attachment/Pasted image 20240404161459.png",
     "attachment/Pasted image 20240404161432.png",
-    "courses/total-typescript/00-reference.md",
-    "courses/total-typescript/workshops/配套资源.md",
     "attachment/Pasted image 20240404162408.png",
     "attachment/Pasted image 20240404161942.png",
     "attachment/Pasted image 20240404161537.png",
