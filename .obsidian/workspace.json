@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ac0f4dc0cbab384f",
+        "id": "530a83b24fa38620",
         "type": "tabs",
         "children": [
           {
-            "id": "d8745b528c47103b",
+            "id": "cd2eeee2799aaf70",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/00.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 332.5
   },
   "right": {
     "id": "a7efe540d3c49ad6",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/00.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/00.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/00.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,10 +170,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8745b528c47103b",
+  "active": "cd2eeee2799aaf70",
   "lastOpenFiles": [
-    "courses/total-typescript/workshops/01 Type Transformations/00.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/00.md",
+    "courses/total-typescript/workshops/01 Type Transformations/00.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments",
     "courses/total-typescript/00-reference.md",
     "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md",
