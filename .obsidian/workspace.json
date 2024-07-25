@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "530a83b24fa38620",
+        "id": "16c090f5e4e34037",
         "type": "tabs",
         "children": [
           {
-            "id": "cd2eeee2799aaf70",
+            "id": "fec348dd4d6dbc08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "macos/重置通过命令行设置的代理.md",
+                "file": "articles/meidum/Top 10 CSS one-liners I love to use.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macos/重置通过命令行设置的代理.md",
+                "file": "articles/meidum/Top 10 CSS one-liners I love to use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "macos/重置通过命令行设置的代理.md",
+                "file": "articles/meidum/Top 10 CSS one-liners I love to use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "macos/重置通过命令行设置的代理.md"
+                "file": "articles/meidum/Top 10 CSS one-liners I love to use.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "macos/重置通过命令行设置的代理.md"
+                "file": "articles/meidum/Top 10 CSS one-liners I love to use.md"
               }
             }
           },
@@ -165,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +179,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b081ac5cef68b0b",
+  "active": "fec348dd4d6dbc08",
   "lastOpenFiles": [
+    "articles/meidum/Top 10 CSS one-liners I love to use.md",
+    "articles/meidum",
+    "Untitled.canvas",
+    "macos/重置通过命令行设置的代理.md",
     "macos/anaconda/ancaconda.md",
     "macos/anaconda",
     "courses/total-typescript/workshops/02 TypeScript Generics/00.md",
@@ -208,18 +210,15 @@
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/02-generic-constraints.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/01-return-what-i-pass-in.md",
     "README.md",
-    "macos/重置通过命令行设置的代理.md",
     "macos/attachment/iTerm2 2024-07-09 22.38.24.png",
     "macos/attachment",
     "courses/程序设计入门--C语言/reference.md",
     "courses/程序设计进阶--C语言/reference.md",
-    "courses/程序设计入门--C语言/workshops/week-01 程序设计与C语言/03 第一个程序/00.md",
     "courses/程序设计进阶--C语言/workshops",
     "courses/程序设计进阶--C语言",
     "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/04 字符串计算",
     "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/03 字符串",
     "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/02 字符类型",
-    "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/01 指针",
     "attachment/Pasted image 20240515232825.png",
     "attachment/Pasted image 20240404161828.png",
     "attachment/Pasted image 20240404161527.png",
@@ -229,7 +228,6 @@
     "attachment/Pasted image 20240404161942.png",
     "attachment/Pasted image 20240404161537.png",
     "attachment/Pasted image 20240404161511.png",
-    "Untitled.canvas",
     "Interview/JavaScript/请介绍一下Js中的单线程和事件循环/JS 的单线程.canvas"
   ]
 }
