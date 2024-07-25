@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "macos/anaconda/ancaconda.md",
+                "file": "macos/重置通过命令行设置的代理.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#example",
+                "query": "proxy",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macos/anaconda/ancaconda.md",
+                "file": "macos/重置通过命令行设置的代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "macos/anaconda/ancaconda.md",
+                "file": "macos/重置通过命令行设置的代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "macos/anaconda/ancaconda.md"
+                "file": "macos/重置通过命令行设置的代理.md"
               }
             }
           },
@@ -147,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "macos/anaconda/ancaconda.md"
+                "file": "macos/重置通过命令行设置的代理.md"
               }
             }
           },
@@ -180,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd2eeee2799aaf70",
+  "active": "5b081ac5cef68b0b",
   "lastOpenFiles": [
     "macos/anaconda/ancaconda.md",
     "macos/anaconda",
