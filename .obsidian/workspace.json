@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16c090f5e4e34037",
+        "id": "7b8897fa6e4bfa3a",
         "type": "tabs",
         "children": [
           {
-            "id": "fec348dd4d6dbc08",
+            "id": "c7a180b50ad4d4ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/meidum/Top 10 CSS one-liners I love to use.md",
+                "file": "00 Index/Untitled 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,16 +32,6 @@
         "id": "e97b0cf56715bb69",
         "type": "tabs",
         "children": [
-          {
-            "id": "aa40ae69e2fb0c23",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
-            }
-          },
           {
             "id": "5b081ac5cef68b0b",
             "type": "leaf",
@@ -64,8 +54,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "aa40ae69e2fb0c23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/meidum/Top 10 CSS one-liners I love to use.md",
+                "file": "00 Index/Untitled 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles/meidum/Top 10 CSS one-liners I love to use.md",
+                "file": "00 Index/Untitled 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/meidum/Top 10 CSS one-liners I love to use.md"
+                "file": "00 Index/Untitled 4.md"
               }
             }
           },
@@ -147,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "articles/meidum/Top 10 CSS one-liners I love to use.md"
+                "file": "00 Index/Untitled 4.md"
               }
             }
           },
@@ -158,13 +159,29 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "ca20c58f0e8103ec",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac86242a6b362cb8",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,11 +193,16 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "float-search:Search Obsidian In Modal": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "fec348dd4d6dbc08",
+  "active": "ca20c58f0e8103ec",
   "lastOpenFiles": [
+    "smart-chats",
+    "00 Index/Untitled 4.md",
+    "Untitled 1.canvas",
     "articles/meidum/Top 10 CSS one-liners I love to use.md",
     "articles/meidum",
     "Untitled.canvas",
@@ -212,8 +234,6 @@
     "README.md",
     "macos/attachment/iTerm2 2024-07-09 22.38.24.png",
     "macos/attachment",
-    "courses/程序设计入门--C语言/reference.md",
-    "courses/程序设计进阶--C语言/reference.md",
     "courses/程序设计进阶--C语言/workshops",
     "courses/程序设计进阶--C语言",
     "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/04 字符串计算",

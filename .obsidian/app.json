@@ -1,6 +1,6 @@
 {
   "defaultViewMode": "preview",
-  "showLineNumber": true,
+  "showLineNumber": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "00 Index",
   "attachmentFolderPath": "./attachment",
