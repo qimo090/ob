@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md",
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/08-default-generics.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proxy",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md",
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/08-default-generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md",
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/08-default-generics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md"
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/08-default-generics.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md"
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/08-default-generics.md"
               }
             }
           },
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,6 +200,7 @@
   },
   "active": "c7a180b50ad4d4ad",
   "lastOpenFiles": [
+    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md",
     "articles/meidum/Top 10 CSS one-liners I love to use.md",
     "articles/30 seconds of code/Image with text overlay.md",
     "articles/30 seconds of code/Image text overlay.md",
@@ -222,7 +223,6 @@
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/10-reduce.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/09-generics-in-type-arguments-in-arguments.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/08-default-generics.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/11.2-mark-erikson-story.explainer.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments",
