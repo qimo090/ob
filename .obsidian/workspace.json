@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Index/Untitled 4.md",
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Index/Untitled 4.md",
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Index/Untitled 4.md",
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Index/Untitled 4.md"
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Index/Untitled 4.md"
+                "file": "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/07-create-new-set.md"
               }
             }
           },
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,12 +198,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ca20c58f0e8103ec",
+  "active": "c7a180b50ad4d4ad",
   "lastOpenFiles": [
-    "smart-chats",
-    "00 Index/Untitled 4.md",
-    "Untitled 1.canvas",
     "articles/meidum/Top 10 CSS one-liners I love to use.md",
+    "articles/30 seconds of code/Image with text overlay.md",
+    "articles/30 seconds of code/Image text overlay.md",
+    "00 Index/Untitled 4.md",
+    "smart-chats",
+    "Untitled 1.canvas",
     "articles/meidum",
     "Untitled.canvas",
     "macos/重置通过命令行设置的代理.md",
@@ -231,14 +233,12 @@
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/03-multiple-generics.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/02-generic-constraints.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/01-return-what-i-pass-in.md",
-    "README.md",
     "macos/attachment/iTerm2 2024-07-09 22.38.24.png",
     "macos/attachment",
     "courses/程序设计进阶--C语言/workshops",
     "courses/程序设计进阶--C语言",
     "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/04 字符串计算",
     "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/03 字符串",
-    "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/02 字符类型",
     "attachment/Pasted image 20240515232825.png",
     "attachment/Pasted image 20240404161828.png",
     "attachment/Pasted image 20240404161527.png",
