@@ -100,6 +100,9 @@
     "courses/total-typescript/workshops/02 TypeScript Generics/00.md": "1d3874410c07add8bf71c9d553cf226daad62b39bb932a0374d299fdf59c106c",
     "macos/anaconda/ancaconda.md": "9b328b9530e64f2798e067cd2b0cb36e452b26c0a45b9b0f8ac7d8e08e1b43fa",
     "articles/meidum/Top 10 CSS one-liners I love to use.md": "19583ac177ba08aec0f4c478b7e27351f019cae6a2dec5654b5c3977ad8f5645",
-    "00 Index/Untitled 4.md": "dba281e6c7b14dc8361eec9c324c852f598898833589857c1260ad7df6ca72b8"
+    "00 Index/Untitled 4.md": "dba281e6c7b14dc8361eec9c324c852f598898833589857c1260ad7df6ca72b8",
+    "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments/12-generics-at-different-levels.md": "253ac0b6e685c82c9453213bdaf296b5b962a1776ec7de9f65a2dc4b3aa7ecfe",
+    "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments/13-typed-object-keys.md": "c30119763f11eacde3dd025f6aefd441e8640d2801ebc525e82d12a1de426fb3",
+    "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments/14-safe-function.md": "4514eeb5b644271c1f7b599187531377ab9d496c4dff2a3e8b77907650c31c3c"
   }
 }
