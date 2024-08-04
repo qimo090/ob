@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "de88a188a77cba35",
+        "id": "8610626b0ff89543",
         "type": "tabs",
         "children": [
           {
-            "id": "222305b4de034959",
+            "id": "a4a868204dee3477",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments/14-safe-function.md",
+                "file": "cs/reference.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4d51709cb6fd9efe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca60564b19e74ea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cs/学习计划.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments/14-safe-function.md",
+                "file": "cs/reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments/14-safe-function.md",
+                "file": "cs/reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments/14-safe-function.md"
+                "file": "cs/reference.md"
               }
             }
           },
@@ -148,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments/14-safe-function.md"
+                "file": "cs/reference.md"
               }
             }
           },
@@ -181,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 406.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,8 +217,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "222305b4de034959",
+  "active": "a4a868204dee3477",
   "lastOpenFiles": [
+    "cs/学习计划.md",
+    "cs/reference.md",
+    "cs/一份硬核计算机科学CS自学计划/一份硬核计算机科学CS自学计划.md",
+    "Untitled",
+    "cs",
     "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments/14-safe-function.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments/13-typed-object-keys.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments/12-generics-at-different-levels.md",
@@ -230,15 +254,10 @@
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments",
     "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06-generic-mapper.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/05-generics-in-classes.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04-multiple-generics-per-object.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/04.5-excalidraw-sum-function.explainer.md",
     "macos/attachment/iTerm2 2024-07-09 22.38.24.png",
     "macos/attachment",
     "courses/程序设计进阶--C语言/workshops",
     "courses/程序设计进阶--C语言",
-    "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/04 字符串计算",
-    "courses/程序设计入门--C语言/workshops/week-08 指针与字符串/03 字符串",
     "attachment/Pasted image 20240515232825.png",
     "attachment/Pasted image 20240404161828.png",
     "attachment/Pasted image 20240404161527.png",
