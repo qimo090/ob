@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs/reference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4d51709cb6fd9efe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ca60564b19e74ea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cs/学习计划.md",
+                "file": "personal/app/license.md",
                 "mode": "preview",
                 "source": false
               }
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs/reference.md",
+                "file": "personal/app/license.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs/reference.md",
+                "file": "personal/app/license.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs/reference.md"
+                "file": "personal/app/license.md"
               }
             }
           },
@@ -166,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "cs/reference.md"
+                "file": "personal/app/license.md"
               }
             }
           },
@@ -219,8 +201,10 @@
   },
   "active": "a4a868204dee3477",
   "lastOpenFiles": [
-    "cs/学习计划.md",
+    "macos/终端环境 iTerm2 + oh-my-zsh.md",
+    "macos/nvm 安装.md",
     "cs/reference.md",
+    "cs/学习计划.md",
     "cs/一份硬核计算机科学CS自学计划/一份硬核计算机科学CS自学计划.md",
     "Untitled",
     "cs",
@@ -251,9 +235,7 @@
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/10-reduce.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/09-generics-in-type-arguments-in-arguments.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/11.2-mark-erikson-story.explainer.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06.5-orta-generics.explainer.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments",
-    "courses/total-typescript/workshops/02 TypeScript Generics/01-generics-intro/06-generic-mapper.md",
     "macos/attachment/iTerm2 2024-07-09 22.38.24.png",
     "macos/attachment",
     "courses/程序设计进阶--C语言/workshops",

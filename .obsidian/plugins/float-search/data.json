@@ -1,7 +1,7 @@
 {
   "searchViewState": {
     "query": "",
-    "matchingCase": true,
+    "matchingCase": false,
     "explainSearch": false,
     "collapseAll": false,
     "extraContext": false,
