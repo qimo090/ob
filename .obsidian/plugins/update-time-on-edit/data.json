@@ -67,7 +67,6 @@
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/30-k-in-keyof.md": "2e82737eaeedf34350c92663ff0a591505563ac11e665c61d47f70436ba65a6e",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/31-k-in-keyof-as.md": "ff9cf4d22e011da07fdc859d9dd43c2f32fcdc05e33278e3205878d3d6338e28",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/32-never-in-key-remapping.md": "4a4d232a053e7c1b44dd9e59ba29964978a51caccdfbb28114187e14abffad35",
-    "personal/app/license.md": "251c3f41d378ebc742a199013676c07051d8ce4f7e6239cdd30e9f18a53fa946",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/33-discriminated-union-to-object.md": "99b287dc3e7f95c7c3ce84a67683977c8b7c044b975e83678616de91e8a32793",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/34-object-to-union-of-tuples.md": "9c4a97ba21f6e6f137d7cb361b4f96972a87f3ddf4094b1dc7885badfe384838",
     "courses/total-typescript/workshops/01 Type Transformations/05-key-remapping/35-object-to-union-of-template-literals.md": "2cdd4ee7393840ad386a622ddf1e7424a3e27f2477f9ba02ae542b89426203aa",
@@ -105,6 +104,8 @@
     "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments/13-typed-object-keys.md": "c30119763f11eacde3dd025f6aefd441e8640d2801ebc525e82d12a1de426fb3",
     "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments/14-safe-function.md": "ba42098d288646b975e5b0b328b19d93b0ba8338d205abe894e6cd0ca8e5a2c0",
     "cs/学习计划.md": "43647c6f02697457a7d0e708b1222ac1f912d140f98324697e60f30453279e78",
-    "cs/reference.md": "2d13003e7bff6abea09f432ad9e38a78a2dd7b6362cf860444e4effbff68ab48"
+    "cs/reference.md": "2d13003e7bff6abea09f432ad9e38a78a2dd7b6362cf860444e4effbff68ab48",
+    "topics/sql/SQL Roadmap/reference.md": "7a5dc0762950db358fce5c39f15b43b307f977d069f7b524f24bcc36f5f18dfa",
+    "topics/sql/SQL Roadmap/01-Introduction/00.md": "a55a13554eb5415da8192f3bfe472c8ea83e6d28f176dcd0af07aed5016c1f54"
   }
 }

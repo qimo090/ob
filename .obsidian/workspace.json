@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8610626b0ff89543",
+        "id": "2e2f641c0dc7c333",
         "type": "tabs",
         "children": [
           {
-            "id": "a4a868204dee3477",
+            "id": "a301044bbb572c2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/app/license.md",
-                "mode": "preview",
+                "file": "topics/sql/SQL Roadmap/01-Introduction/00.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/app/license.md",
+                "file": "topics/sql/SQL Roadmap/01-Introduction/00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/app/license.md",
+                "file": "topics/sql/SQL Roadmap/01-Introduction/00.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/app/license.md"
+                "file": "topics/sql/SQL Roadmap/01-Introduction/00.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "personal/app/license.md"
+                "file": "topics/sql/SQL Roadmap/01-Introduction/00.md"
               }
             }
           },
@@ -199,14 +199,24 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a4a868204dee3477",
+  "active": "a301044bbb572c2a",
   "lastOpenFiles": [
+    "topics/sql/SQL Roadmap/reference.md",
+    "topics/sql/SQL Roadmap/01-Introduction/00.md",
+    "topics/sql/SQL Roadmap/attachment/SQL Roadmap.pdf",
+    "topics/sql/SQL Roadmap/attachment",
+    "topics/sql/SQL Roadmap/01-Introduction",
+    "README.md",
+    "topics/sql/SQL Roadmap",
+    "topics/sql",
+    "topic",
+    "Excalidraw/Drawing 2024-07-10 22.30.00.excalidraw.md",
+    "personal/app/license.md",
     "macos/终端环境 iTerm2 + oh-my-zsh.md",
     "macos/nvm 安装.md",
     "cs/reference.md",
     "cs/学习计划.md",
     "cs/一份硬核计算机科学CS自学计划/一份硬核计算机科学CS自学计划.md",
-    "Untitled",
     "cs",
     "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments/14-safe-function.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments/13-typed-object-keys.md",
@@ -226,20 +236,10 @@
     "macos/anaconda/ancaconda.md",
     "macos/anaconda",
     "courses/total-typescript/workshops/01 Type Transformations/00.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/03-art-of-type-arguments",
     "courses/total-typescript/00-reference.md",
     "courses/程序设计入门--C语言/workshops/week-02 计算/03 表达式/note.md",
-    "Excalidraw/Drawing 2024-07-10 22.30.00.excalidraw.md",
     "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/11.1-passing-type-arguments-in-cal.com.explainer.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/11-data-fetcher.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/10-reduce.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/09-generics-in-type-arguments-in-arguments.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments/11.2-mark-erikson-story.explainer.md",
-    "courses/total-typescript/workshops/02 TypeScript Generics/02-passing-type-arguments",
     "macos/attachment/iTerm2 2024-07-09 22.38.24.png",
-    "macos/attachment",
-    "courses/程序设计进阶--C语言/workshops",
-    "courses/程序设计进阶--C语言",
     "attachment/Pasted image 20240515232825.png",
     "attachment/Pasted image 20240404161828.png",
     "attachment/Pasted image 20240404161527.png",
